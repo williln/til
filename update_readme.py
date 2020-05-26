@@ -15,8 +15,13 @@ if __name__ == "__main__":
     for row in db["til"].rows_where(order_by="created_utc"):
         by_topic.setdefault(row["topic"], []).append(row)
     index = ["<!-- index starts -->"]
-    for topic, rows in by_topic.items():
+
+    # Alphabetize the topics
+    topics = list(by_topic.keys())
+
+    for topic in topics:
         index.append("## {}\n".format(topic))
+        rows = by_topic[topic]
         for row in rows:
             index.append(
                 "* [{title}]({url}) - {date}".format(
