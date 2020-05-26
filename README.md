@@ -9,4 +9,5 @@ Today I Learned
 ## django
 
 * [Using Enums in a Django Model ChoiceField](https://github.com/simonw/til/blob/master/django/enums_as_choices.md) - 2020-05-26
+* [New Idea](https://github.com/simonw/til/blob/master/django/new.md) - 2020-05-26
 <!-- index ends -->
