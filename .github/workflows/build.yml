@@ -19,8 +19,8 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - uses: actions/cache@v1
-      name: Configure pip caching
+    - name: Configure pip caching
+      uses: actions/cache@v1
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
