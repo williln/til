@@ -4,7 +4,7 @@ name: Build README
 on:
   push:
     branches:
-    - master
+    - main
 
 jobs:
   build:
