@@ -20,7 +20,7 @@ class BookSerializer(serializers.ModelSerializer):
         model = models.Book
         fields = ("title", "availability")
 
-    swagger_serializer_method(serializer_or_field=serializers.BooleanField)
+    @swagger_serializer_method(serializer_or_field=serializers.BooleanField)
     def get_status(self, obj):
         return obj.copies_available
 
