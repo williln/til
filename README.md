@@ -22,4 +22,8 @@ Today I Learned
 * [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
 * [How to document your query parameters for `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/query_params.md) - 2021-01-28
 * [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
+
+## python
+
+* [How to sort a Python dictionary by key or value](https://github.com/williln/til/blob/main/python/sort_dictionary.md) - 2021-02-02
 <!-- index ends -->
