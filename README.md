@@ -12,6 +12,7 @@ Today I Learned
 * [Testing Django signals, and disabling signals in tests (Django 2.2)](https://github.com/williln/til/blob/main/django/testing_django_signals.md) - 2020-07-27
 * [Why won't my Django file URLs come back signed from S3?](https://github.com/williln/til/blob/main/django/aws_signed_urls.md) - 2021-01-08
 * [Using Django Aggregation](https://github.com/williln/til/blob/main/django/aggregation.md) - 2021-01-22
+* [Using `Coalesce` to provide a default value for `aggregate` queries](https://github.com/williln/til/blob/main/django/aggregation_coalesce.md) - 2021-02-18
 
 ## django-rest-framework
 
