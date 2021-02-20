@@ -9,7 +9,7 @@ Another thing I always have to look up.
 ```python
 from django.db.models import Avg, Count, Max, Min, Sum
 
-price_max = Model.objects.all().aggregate(Max("price"))
+price_max = Model.objects.aggregate(Max("price"))
 ```
 
 ## What's the lowest value of some field?
@@ -17,7 +17,7 @@ price_max = Model.objects.all().aggregate(Max("price"))
 ```python
 from django.db.models import Avg, Count, Max, Min, Sum
 
-price_min = Model.objects.all().aggregate(Min("price"))
+price_min = Model.objects.aggregate(Min("price"))
 ```
 
 ## What's the average value of some field?
@@ -25,7 +25,7 @@ price_min = Model.objects.all().aggregate(Min("price"))
 ```python
 from django.db.models import Avg, Count, Max, Min, Sum
 
-price_avg = Model.objects.all().aggregate(Avg("price"))
+price_avg = Model.objects.aggregate(Avg("price"))
 ```
 
 ## What's the total of all values of a field?
@@ -33,7 +33,7 @@ price_avg = Model.objects.all().aggregate(Avg("price"))
 ```python
 from django.db.models import Avg, Count, Max, Min, Sum
 
-price_total = Model.objects.all().aggregate(Sum("price"))
+price_total = Model.objects.aggregate(Sum("price"))
 ```
 
 ## What's the difference between aggregation and annotation?
@@ -50,7 +50,7 @@ You can combine these to follow relationships -- you can **annotate** the number
 from django.db.models import Avg, Count, Max, Min, Sum
 
 # Assumes Book has a M2M for `authors`
-qs = Book.objects.all().annotate(Count("authors"))
+qs = Book.objects.annotate(Count("authors"))
 
 for book in qs:
     print(book.authors__count)
