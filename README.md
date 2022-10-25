@@ -18,11 +18,12 @@ Today I Learned
 ## django-rest-framework
 
 * [Passing extra info in `context` to your DRF serializer](https://github.com/williln/til/blob/main/django-rest-framework/pass_to_context.md) - 2021-01-22
+* [Adding a custom pagination class to an action](https://github.com/williln/til/blob/main/django-rest-framework/custom_action_pagination.md) - 2022-10-25
 
 ## drf-yasg
 
-* [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
 * [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
+* [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
 * [How to document your query parameters for `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/query_params.md) - 2021-01-28
 
 ## python
