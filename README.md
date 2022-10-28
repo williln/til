@@ -5,6 +5,7 @@ Today I Learned
 ## github
 
 * [How to use a Github Action](https://github.com/williln/til/blob/main/github/howto_github_action.md) - 2020-05-26
+* [Github Action that leaves a comment on new PRs or issues](https://github.com/williln/til/blob/main/github/action_pr_comment.md) - 2022-10-28
 
 ## django
 
