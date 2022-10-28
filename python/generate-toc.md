@@ -133,7 +133,3 @@ jobs:
         git push
 
 ```
-
-## Output
-
-<img width="933" alt="Screen Shot 2022-10-28 at 12 48 05 PM" src="https://user-images.githubusercontent.com/2286304/198720348-0d7a7fdd-ad90-4afd-bfba-cd473b50be0f.png">
