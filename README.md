@@ -11,6 +11,7 @@ Today I Learned
 * [Making one job in a workflow depend on another job](https://github.com/williln/til/blob/main/github/gh-actions-set-job-dependency.md) - 2022-11-04
 * [Parsing JSON output from a GitHub Issue template in a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-parse-json.md) - 2022-11-04
 * [Creating a new file and committing it using a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-step-to-create-and-commt-a-file.md) - 2022-11-04
+* [Commenting on an issue from a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-comment-issue.md) - 2022-11-04
 
 ## django
 
