@@ -8,6 +8,7 @@ Today I Learned
 * [Github Action that leaves a comment on new PRs or issues](https://github.com/williln/til/blob/main/github/action_pr_comment.md) - 2022-10-28
 * [Running an action conditionally](https://github.com/williln/til/blob/main/github/gh-action-run-job-conditionally.md) - 2022-11-04
 * [Setting output for a step in a job, so a different job can use it](https://github.com/williln/til/blob/main/github/gh-action-set-output.md) - 2022-11-04
+* [Making one job in a workflow depend on another job](https://github.com/williln/til/blob/main/github/gh-actions-set-job-dependency.md) - 2022-11-04
 
 ## django
 
