@@ -9,6 +9,7 @@ Today I Learned
 * [Running an action conditionally](https://github.com/williln/til/blob/main/github/gh-action-run-job-conditionally.md) - 2022-11-04
 * [Setting output for a step in a job, so a different job can use it](https://github.com/williln/til/blob/main/github/gh-action-set-output.md) - 2022-11-04
 * [Making one job in a workflow depend on another job](https://github.com/williln/til/blob/main/github/gh-actions-set-job-dependency.md) - 2022-11-04
+* [Parsing JSON output from a GitHub Issue template in a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-parse-json.md) - 2022-11-04
 
 ## django
 
