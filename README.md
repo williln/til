@@ -43,4 +43,8 @@ Today I Learned
 ## misc
 
 * [Relume Design League - competitive web design](https://github.com/williln/til/blob/main/misc/competitive_web_design.md) - 2022-11-05
+
+## markdown
+
+* [Making a collapsible markdown section](https://github.com/williln/til/blob/main/markdown/collapsible_markdown.md) - 2022-11-05
 <!-- index ends -->
