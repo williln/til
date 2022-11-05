@@ -39,4 +39,8 @@ Today I Learned
 * [How to sort a Python dictionary by multiple values](https://github.com/williln/til/blob/main/python/sort_dict_multiple_keys.md) - 2021-02-02
 * [Create a new Python virtual environment](https://github.com/williln/til/blob/main/python/new-virtualenv.md) - 2022-10-14
 * [Generate a markdown file with a table of contents in Python](https://github.com/williln/til/blob/main/python/generate-toc.md) - 2022-10-28
+
+## misc
+
+* [Relume Design League - competitive web design](https://github.com/williln/til/blob/main/misc/competitive_web_design.md) - 2022-11-05
 <!-- index ends -->
