@@ -22,6 +22,7 @@ Today I Learned
 * [Using Django Aggregation](https://github.com/williln/til/blob/main/django/aggregation.md) - 2021-01-22
 * [Using `Coalesce` to provide a default value for `aggregate` queries](https://github.com/williln/til/blob/main/django/aggregation_coalesce.md) - 2021-02-18
 * [Using `defer()` to limit the data you get from your models](https://github.com/williln/til/blob/main/django/defer.md) - 2022-10-19
+* [Adding a custom tag with `django-taggit`](https://github.com/williln/til/blob/main/django/django-taggit-custom-tag.md) - 2022-11-09
 
 ## django-rest-framework
 
