@@ -23,7 +23,7 @@ Result:
 
 ## Searching across a ManyToMany relationship 
 
-The `Fandom` model has `ManyToManyField` connections to other models, `Fandom` and `Ship`. To enable a user to search for `Fic` objects in the admin by the name of the connected `Ship` or `Fandom`, use whatever you have in the `related_name` attribute of the field and add the field name you want to searcch on after the double underscore. 
+The `Fandom` model has `ManyToManyField` connections to other models, `Fandom` and `Ship`. To enable a user to search for `Fic` objects in the admin by the name of the connected `Ship` or `Fandom`, use the field name you want to search on after the double underscore. 
 
 Given these models: 
 
