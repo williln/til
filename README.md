@@ -49,4 +49,8 @@ Today I Learned
 ## markdown
 
 * [Making a collapsible markdown section](https://github.com/williln/til/blob/main/markdown/collapsible_markdown.md) - 2022-11-05
+
+## django_admin
+
+* [Adding extra fields to the list view in the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_fields_to_list_view.md) - 2022-11-18
 <!-- index ends -->
