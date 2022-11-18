@@ -53,4 +53,5 @@ Today I Learned
 ## django_admin
 
 * [Adding extra fields to the list view in the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_fields_to_list_view.md) - 2022-11-18
+* [Adding ability to search in the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_search.md) - 2022-11-18
 <!-- index ends -->
