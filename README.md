@@ -31,9 +31,9 @@ Today I Learned
 
 ## drf-yasg
 
-* [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
 * [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
 * [How to document your query parameters for `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/query_params.md) - 2021-01-28
+* [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
 
 ## python
 
@@ -56,4 +56,8 @@ Today I Learned
 * [Adding ability to search in the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_search.md) - 2022-11-18
 * [Adding filtering functionality to the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_filtering.md) - 2022-11-18
 * [Adding a custom field to the Django admin list display](https://github.com/williln/til/blob/main/django_admin/custom_fields.md) - 2022-11-18
+
+## fast_ai
+
+* [Converting a `fastcore.basics.AttrDict` into a regular dictionary.](https://github.com/williln/til/blob/main/fast_ai/obj2dict.md) - 2022-12-14
 <!-- index ends -->
