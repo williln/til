@@ -24,6 +24,7 @@ Today I Learned
 * [Using `defer()` to limit the data you get from your models](https://github.com/williln/til/blob/main/django/defer.md) - 2022-10-19
 * [Adding a custom tag with `django-taggit`](https://github.com/williln/til/blob/main/django/django-taggit-custom-tag.md) - 2022-11-09
 * [How to confirm that login is required in your Django view](https://github.com/williln/til/blob/main/django/how_to_test_view_auth.md) - 2023-02-22
+* [How to log in a test user in a `pytest` unit test](https://github.com/williln/til/blob/main/django/test_protected_page.md) - 2023-02-22
 
 ## django-rest-framework
 
