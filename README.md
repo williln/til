@@ -25,7 +25,7 @@ Today I Learned
 * [Adding a custom tag with `django-taggit`](https://github.com/williln/til/blob/main/django/django-taggit-custom-tag.md) - 2022-11-09
 * [How to confirm that login is required in your Django view](https://github.com/williln/til/blob/main/django/how_to_test_view_auth.md) - 2023-02-22
 * [How to log in a test user in a `pytest` unit test](https://github.com/williln/til/blob/main/django/test_protected_page.md) - 2023-02-22
-* [How to test a file upload with `pytest` and 'SimpleUploadedFile`](https://github.com/williln/til/blob/main/django/testing_file_upload_pytest.md) - 2023-02-22
+* [How to test a file upload with `pytest` and `SimpleUploadedFile`](https://github.com/williln/til/blob/main/django/testing_file_upload_pytest.md) - 2023-02-22
 
 ## django-rest-framework
 
