@@ -1,4 +1,4 @@
-# How to test a file upload with `pytest` and 'SimpleUploadedFile`
+# How to test a file upload with `pytest` and `SimpleUploadedFile`
 
 Situation: A user can upload a new profile photo. We want to test that they can actually do that.
 
