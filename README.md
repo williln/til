@@ -63,4 +63,8 @@ Today I Learned
 ## fast_ai
 
 * [Converting a `fastcore.basics.AttrDict` into a regular dictionary.](https://github.com/williln/til/blob/main/fast_ai/obj2dict.md) - 2022-12-14
+
+## pytest
+
+* [Test that an exception is raised](https://github.com/williln/til/blob/main/pytest/assert_raises.md) - 2023-03-02
 <!-- index ends -->
