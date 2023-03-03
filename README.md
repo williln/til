@@ -67,4 +67,8 @@ Today I Learned
 ## pytest
 
 * [Test that an exception is raised](https://github.com/williln/til/blob/main/pytest/assert_raises.md) - 2023-03-02
+
+## gift_ideas
+
+* [Gift ideas for groups, offices, etc.](https://github.com/williln/til/blob/main/gift_ideas/groups.md) - 2023-03-03
 <!-- index ends -->
