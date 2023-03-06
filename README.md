@@ -74,5 +74,5 @@ Today I Learned
 
 ## home_office
 
-* [Troubleshooting my Brother hHL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home_office/printer.md) - 2023-03-06
+* [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home_office/printer.md) - 2023-03-06
 <!-- index ends -->
