@@ -71,4 +71,8 @@ Today I Learned
 ## gift_ideas
 
 * [Gift ideas for groups, offices, etc.](https://github.com/williln/til/blob/main/gift_ideas/groups.md) - 2023-03-03
+
+## home_office
+
+* [Troubleshooting my Brother hHL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home_office/printer.md) - 2023-03-06
 <!-- index ends -->
