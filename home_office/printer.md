@@ -1,4 +1,4 @@
-# Troubleshooting my Brother hHL-2270DW Wireless Printer 
+# Troubleshooting my Brother HL-2270DW Wireless Printer 
 
 - [Wireless setup](https://www.youtube.com/watch?v=FZlImq6n9to)
 - [Reset to factory settings](https://www.youtube.com/watch?v=fKYSO_CsYD8&pp=ygUdYnJvdGhlciBobC0yMjcwZHcgZXJyb3IgbGlnaHQ%3D)
