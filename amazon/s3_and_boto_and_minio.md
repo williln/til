@@ -4,6 +4,61 @@ _Note: This was written almost entirely by ChatGPT and lightly edited by me afte
 
 This cheat sheet covers the basics of interacting with AWS S3 using Boto3 and Python. It includes examples of listing, reading, and downloading objects from an S3 bucket.
 
+## AWSCLI 
+
+These commands were explored in the contents of wanting to copy some test files from a live, dev S3 bucket to my local machine so I could use them later on with Minio as a way to mock the calls to S3 with more realistic objects. 
+
+### Operations 
+
+#### List all S3 buckets 
+
+```bash
+$ aws s3 ls
+2023-03-22 10:23:31 sample.org-prod
+2023-03-21 11:54:57 sample.org-dev
+```
+
+#### List the contents of a specific S3 bucket 
+
+```bash
+$ aws s3 ls s3://your_bucket_name/
+                           PRE archives/
+                           PRE core/
+```
+Replace your_bucket_name with the name of your S3 bucket.
+
+Results with `PRE` indicate that this path is a prefix. 
+
+#### List the contents of a specific S3 bucket with a specific prefix 
+
+```bash
+$ aws s3 ls s3://your_bucket_name/your_prefix/
+```
+
+Replace your_bucket_name with the name of your S3 bucket and your_prefix with the desired prefix.
+
+_Author's note: This will let you drill down into your S3 buckets using a directory-like syntax. Your prefixes can stack. But remember that this is not actually a filesystem -- these prefixes are ultimately just a naming convention and an abstraction._ 
+
+#### Copy a single file from S3 to your local machine 
+
+```bash
+$ aws s3 cp s3://your_bucket_name/path/to/your_file.ext path/to/local/your_file.ext
+```
+
+Replace your_bucket_name with the name of your S3 bucket, path/to/your_file with the path of the file in the bucket, and local_destination with the local path where you want to save the file.
+
+_Author's note: You do need to specify the full path and extension for where you want to save it. Used in the context of getting sample data for use later with Minio._ 
+
+#### Sync a folder from S3 onto your local machine 
+
+```bash
+$ aws s3 sync s3://your_bucket_name/path/to/folder local_destination
+```
+
+Replace your_bucket_name with the name of your S3 bucket, path/to/folder with the path of the folder in the bucket, and local_destination with the local path where you want to save the synced files.
+
+_Author's note: You do need to specify the full path for where you want to save it. Used in the context of getting sample data for use later with Minio. Stopped before it completed because it was taking too long._ 
+
 ## Boto3 
 
 ### Setup
