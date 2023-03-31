@@ -34,9 +34,9 @@ Today I Learned
 
 ## drf-yasg
 
-* [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
-* [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
 * [How to document your query parameters for `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/query_params.md) - 2021-01-28
+* [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
+* [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
 
 ## python
 
@@ -75,4 +75,8 @@ Today I Learned
 ## home_office
 
 * [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home_office/printer.md) - 2023-03-06
+
+## amazon
+
+* [AWS S3 and Boto3 Cheat Sheet](https://github.com/williln/til/blob/main/amazon/s3_and_boto_and_minio.md) - 2023-03-31
 <!-- index ends -->
