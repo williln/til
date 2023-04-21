@@ -58,3 +58,5 @@ See [Reference](https://taylor.wjakethompson.com/reference/index.html)
 #   tempo <dbl>, time_signature <int>, duration_ms <int>, explicit <lgl>,
 #   key_name <chr>, mode_name <chr>, key_mode <chr>, lyrics <list>
 ```
+
+Seee some [example usage](https://www.wjakethompson.com/blog/taylor/2021-09-01-taylor-0.2.0/) on the creator's blog. 
