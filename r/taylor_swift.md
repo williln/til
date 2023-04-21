@@ -10,10 +10,9 @@ The goal of this project is to explore Taylor Swift's discography and gain insig
 
 The taylor package provides several datasets:
 
-`taylor_albums`: Information about Taylor Swift's albums, including album titles, release dates, and cover images.
-`taylor_songs`: Details about each song, such as the title, track number, and songwriters.
-`taylor_lyrics`: Complete lyrics for each song in her discography.
-`taylor_feature`s: Information about guest artists featured on Taylor Swift's songs.
+`taylor_all_songs`: A data set containing lyrics to and characteristics of all officially released Taylor Swift songs. This includes albums, EPs, and individually released singles.
+`taylor_album_songs`: Same as `taylor_all_songs` but fewer songs -- one for each song from an official studio album 
+`taylor_albums`: A data set containing the names of Taylor's official releases, the album type, and release date.
 
 ## Getting Started
 
