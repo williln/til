@@ -85,4 +85,5 @@ Today I Learned
 ## r
 
 * [How to convert an `.rda` file to JSON](https://github.com/williln/til/blob/main/r/convert_rda_to_json.md) - 2023-04-21
+* [`taylor`: The Taylor Swift / R Project](https://github.com/williln/til/blob/main/r/taylor_swift.md) - 2023-04-21
 <!-- index ends -->
