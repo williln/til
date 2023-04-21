@@ -81,4 +81,8 @@ Today I Learned
 ## amazon
 
 * [AWS S3 and Boto3 Cheat Sheet](https://github.com/williln/til/blob/main/amazon/s3_and_boto_and_minio.md) - 2023-03-31
+
+## r
+
+* [How to convert an `.rda` file to JSON](https://github.com/williln/til/blob/main/r/convert_rda_to_json.md) - 2023-04-21
 <!-- index ends -->
