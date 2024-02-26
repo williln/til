@@ -83,4 +83,8 @@ Today I Learned
 
 * [How to convert an `.rda` file to JSON](https://github.com/williln/til/blob/main/r/convert_rda_to_json.md) - 2023-04-21
 * [`taylor`: The Taylor Swift / R Project](https://github.com/williln/til/blob/main/r/taylor_swift.md) - 2023-04-21
+
+## wagtail
+
+* [Add Wagtail to an existing Django project](https://github.com/williln/til/blob/main/wagtail/add_to_existing_project.md) - 2024-02-26
 <!-- index ends -->
