@@ -87,4 +87,5 @@ Today I Learned
 ## wagtail
 
 * [Add Wagtail to an existing Django project](https://github.com/williln/til/blob/main/wagtail/add_to_existing_project.md) - 2024-02-26
+* [Choosing Between Wagtail Page Models and Django Models](https://github.com/williln/til/blob/main/wagtail/choosing_wagtail_page_models_vs_django_models.md) - 2024-02-26
 <!-- index ends -->
