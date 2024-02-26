@@ -92,4 +92,5 @@ Today I Learned
 * [Cheat Sheet: Wagtail Page Model Fields](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_page_model_fields.md) - 2024-02-26
 * [Cheat Sheet for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_streamfield.md) - 2024-02-26
 * [Creating Custom StreamField Blocks](https://github.com/williln/til/blob/main/wagtail/create_custom_streamfield_block.md) - 2024-02-26
+* [Create a Custom Nested Block for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/create_custom_nested_block_for_streamfield.md) - 2024-02-26
 <!-- index ends -->
