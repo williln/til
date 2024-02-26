@@ -91,4 +91,5 @@ Today I Learned
 * [Example of linking Django models to Wagtail Page models](https://github.com/williln/til/blob/main/wagtail/example_integrating_wagtail_page_models_into_django_models.md) - 2024-02-26
 * [Cheat Sheet: Wagtail Page Model Fields](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_page_model_fields.md) - 2024-02-26
 * [Cheat Sheet for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_streamfield.md) - 2024-02-26
+* [Creating Custom StreamField Blocks](https://github.com/williln/til/blob/main/wagtail/create_custom_streamfield_block.md) - 2024-02-26
 <!-- index ends -->
