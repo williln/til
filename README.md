@@ -29,6 +29,7 @@ Today I Learned
 * [Caching in Django Projects](https://github.com/williln/til/blob/main/django/caching.md) - 2023-04-19
 * [Handling 404 Responses in Django](https://github.com/williln/til/blob/main/django/404_handling.md) - 2023-04-19
 * [Finding the longest value of a particular field](https://github.com/williln/til/blob/main/django/longest_value_in_field.md) - 2024-02-28
+* [Finding out how many objects have N connections to the other model in a M2M relationship](https://github.com/williln/til/blob/main/django/m2m_queries_how_many_objects_have_no_connections.md) - 2024-02-28
 
 ## django-rest-framework
 
