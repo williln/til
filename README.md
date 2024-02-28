@@ -28,6 +28,7 @@ Today I Learned
 * [How to test a file upload with `pytest` and `SimpleUploadedFile`](https://github.com/williln/til/blob/main/django/testing_file_upload_pytest.md) - 2023-02-22
 * [Caching in Django Projects](https://github.com/williln/til/blob/main/django/caching.md) - 2023-04-19
 * [Handling 404 Responses in Django](https://github.com/williln/til/blob/main/django/404_handling.md) - 2023-04-19
+* [Finding the longest value of a particular field](https://github.com/williln/til/blob/main/django/longest_value_in_field.md) - 2024-02-28
 
 ## django-rest-framework
 
