@@ -95,4 +95,8 @@ Today I Learned
 * [Cheat Sheet for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_streamfield.md) - 2024-02-26
 * [Creating Custom StreamField Blocks](https://github.com/williln/til/blob/main/wagtail/create_custom_streamfield_block.md) - 2024-02-26
 * [Create a Custom Nested Block for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/create_custom_nested_block_for_streamfield.md) - 2024-02-26
+
+## google
+
+* [Using Google Cloud Service Accounts and authenticating as a dictionary (without the json file) in a Django project](https://github.com/williln/til/blob/main/google/using_service_account_as_dict.md) - 2024-03-01
 <!-- index ends -->
