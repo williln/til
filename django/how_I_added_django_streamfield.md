@@ -137,7 +137,7 @@ def test_rich_text_block(rich_text_block):
 
 ### Test the Streamfield on the Product model 
 
-This one was trickier, and I want to thank [@FunkBob](https://chaos.social/@FunkyBob/112119091650686006) on Mastodon for helping me figure out how to set this test up. The object with the Streamfield must be reloaded from the db before you can access the `add` method on the Streamfield field to add the blocks. 
+This one was trickier, and I want to thank [@FunkyBob](https://chaos.social/@FunkyBob/112119091650686006) on Mastodon for helping me figure out how to set this test up. The object with the Streamfield must be reloaded from the db before you can access the `add` method on the Streamfield field to add the blocks. 
 
 ```python
 # products/tests/test_models.py
