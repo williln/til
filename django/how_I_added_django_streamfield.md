@@ -2,7 +2,7 @@
 
 ## Info 
 
-- [django-streamfield pn PyPI](https://pypi.org/project/django-streamfield/)
+- [django-streamfield on PyPI](https://pypi.org/project/django-streamfield/)
 - [django-streamfield on GitHub](https://github.com/raagin/django-streamfield)
 - Django 5.0
 - Python 3.11 
@@ -33,16 +33,16 @@ from django.db import models
 from django_extensions.db.models import TimeStampedModel
 
 class RichTextBlock(TimeStampedModel):
-	text = models.TextField(blank=True
+    text = models.TextField(blank=True
   
   
 class QuoteBlock(TimeStampedModel):
-	quote = models.TextField(blank=True, null=True)
-	author = models.CharField(max_length=255, blank=True, null=True)
+    quote = models.TextField(blank=True, null=True)
+    author = models.CharField(max_length=255, blank=True, null=True)
 
 STREAMBLOCKS_MODELS = [
-	RichTextBlock,
-	QuoteBlock,
+    RichTextBlock,
+    QuoteBlock,
 ]
 ```
 
@@ -63,15 +63,15 @@ urlpatterns += [
 ```html
 <!-- templates/streamblocks/blocks/richtext.html -->
 <div class="rich-text-block">
-	{{ block_content.text|safe }}
+    {{ block_content.text|safe }}
 </div>
 ```
 
 ```html
 <!-- templates/streamblocks/quote.html -->
 <div class="quote-block">
-	<div>"{{ block_content.quote|safe }}"</div>
-	<div>{{ block_content.author|safe }}</div>
+    <div>"{{ block_content.quote|safe }}"</div>
+    <div>{{ block_content.author|safe }}</div>
 </div>
 ```
 
@@ -80,7 +80,7 @@ urlpatterns += [
 ```python
 # streamblocks/models.py 
 class RichTextBlock(TimeStampedModel):
-	block_template = "streamblocks/richtext.html"
+    block_template = "streamblocks/richtext.html"
 ```
 
 ### Add the StreamField to my model 
@@ -94,10 +94,10 @@ from streamfield.fields import StreamField
 from streamblocks.models import RichTextBlock, QuoteBlock
 
 class Product(TimeStampedModel):
-	stream = StreamField(
-		model_list=[RichTextBlock, QuoteBlock],
-		verbose_name="Extra Info Blocks",
-		help_text="A special notice for this product.",
+    stream = StreamField(
+        model_list=[RichTextBlock, QuoteBlock],
+        verbose_name="Extra Info Blocks",
+        help_text="A special notice for this product.",
 	)
 ```
 
@@ -126,13 +126,13 @@ from model_bakery import baker
 
 @pytest.fixture
 def rich_text_block(db):
-	return baker.make("streamblocks.RichTextBlock", text="Hello, world!")
+    return baker.make("streamblocks.RichTextBlock", text="Hello, world!")
 ```
 
 ```python
 # streamblocks/tests/test_models.py
 def test_rich_text_block(rich_text_block):
-	assert rich_text_block.text == "Hello, world!"
+    assert rich_text_block.text == "Hello, world!"
 ```
 
 ### Test the Streamfield on the Product model 
@@ -144,13 +144,13 @@ This one was trickier, and I want to thank [@FunkBob](https://chaos.social/@Funk
 
 # uses pre-existing item fixture 
 def test_item_stream(item, rich_text_block):
-	# The object has to be reloaded to access the StreamField
-	item.refresh_from_db()
-	item.stream.add(rich_text_block)
-	assert len(item.special_notice.value) == 1
-	ids = set([block["id"] for block in item.special_notice.value])
-	assert rich_text_block.id in ids
-	assert quote_block.id in ids
+    # The object has to be reloaded to access the StreamField
+    item.refresh_from_db()
+    item.stream.add(rich_text_block)
+    assert len(item.special_notice.value) == 1
+    ids = set([block["id"] for block in item.special_notice.value])
+    assert rich_text_block.id in ids
+    assert quote_block.id in ids
 ```
 
 This isn't the most useful test, but I will probably have some more complex streamfield logic later, so I will probably appreciate having written an example test. 
