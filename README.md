@@ -3,13 +3,17 @@
 My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til). 
 
 <!-- index starts -->
-## amazon
+## aws
 
-* [AWS S3 and Boto3 Cheat Sheet](https://github.com/williln/til/blob/main/amazon/s3_and_boto_and_minio.md) - 2023-03-31
+* [AWS S3 and Boto3 Cheat Sheet](https://github.com/williln/til/blob/main/aws/s3_and_boto_and_minio.md) - 2024-03-18
 
 ## django
 
+* [Adding a custom field to the Django admin list display](https://github.com/williln/til/blob/main/django/custom_fields.md) - 2024-03-18
 * [Adding a custom tag with `django-taggit`](https://github.com/williln/til/blob/main/django/django-taggit-custom-tag.md) - 2022-11-09
+* [Adding ability to search in the Django Admin](https://github.com/williln/til/blob/main/django/add_search.md) - 2024-03-18
+* [Adding extra fields to the list view in the Django Admin](https://github.com/williln/til/blob/main/django/add_fields_to_list_view.md) - 2024-03-18
+* [Adding filtering functionality to the Django Admin](https://github.com/williln/til/blob/main/django/add_filtering.md) - 2024-03-18
 * [Caching in Django Projects](https://github.com/williln/til/blob/main/django/caching.md) - 2023-04-19
 * [Finding out how many objects have N connections to the other model in a M2M relationship](https://github.com/williln/til/blob/main/django/m2m_queries_how_many_objects_have_no_connections.md) - 2024-02-28
 * [Finding the longest value of a particular field](https://github.com/williln/til/blob/main/django/longest_value_in_field.md) - 2024-02-28
@@ -30,22 +34,15 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Adding a custom pagination class to an action](https://github.com/williln/til/blob/main/django-rest-framework/custom_action_pagination.md) - 2022-10-25
 * [Passing extra info in `context` to your DRF serializer](https://github.com/williln/til/blob/main/django-rest-framework/pass_to_context.md) - 2021-01-22
 
-## django_admin
-
-* [Adding a custom field to the Django admin list display](https://github.com/williln/til/blob/main/django_admin/custom_fields.md) - 2022-11-18
-* [Adding ability to search in the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_search.md) - 2022-11-18
-* [Adding extra fields to the list view in the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_fields_to_list_view.md) - 2022-11-18
-* [Adding filtering functionality to the Django Admin](https://github.com/williln/til/blob/main/django_admin/add_filtering.md) - 2022-11-18
-
 ## drf-yasg
 
 * [How to document your query parameters for `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/query_params.md) - 2021-01-28
 * [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
 * [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
 
-## fast_ai
+## fast-ai
 
-* [Converting a `fastcore.basics.AttrDict` into a regular dictionary.](https://github.com/williln/til/blob/main/fast_ai/obj2dict.md) - 2022-12-14
+* [Converting a `fastcore.basics.AttrDict` into a regular dictionary.](https://github.com/williln/til/blob/main/fast-ai/obj2dict.md) - 2024-03-18
 
 ## github
 
@@ -63,9 +60,9 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Using Google Cloud Service Accounts and authenticating as a dictionary (without the json file) in a Django project](https://github.com/williln/til/blob/main/google/using_service_account_as_dict.md) - 2024-03-01
 
-## home_office
+## home-office
 
-* [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home_office/printer.md) - 2023-03-06
+* [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home-office/printer.md) - 2024-03-18
 
 ## markdown
 
