@@ -1,5 +1,3 @@
-# Cribbed from Simon Willison: https://github.com/simonw/til/blob/0abdc32464f1bc726abebdbc147b945d22bae7a8/update_readme.py
-"Run this after build_database.py - it needs til.db"
 import pathlib
 import sqlite_utils
 import sys
@@ -12,16 +10,19 @@ index_re = re.compile(r"<!\-\- index starts \-\->.*<!\-\- index ends \-\->", re.
 if __name__ == "__main__":
     db = sqlite_utils.Database(root / "til.db")
     by_topic = {}
-    for row in db["til"].rows_where(order_by="created_utc"):
+    for row in db["til"].rows_where(order_by="topic"):
         by_topic.setdefault(row["topic"], []).append(row)
-    index = ["<!-- index starts -->"]
 
     # Alphabetize the topics
-    topics = list(by_topic.keys())
+    topics = sorted(by_topic.keys())
 
+    index = ["<!-- index starts -->"]
     for topic in topics:
         index.append("## {}\n".format(topic))
-        rows = by_topic[topic]
+
+        # Sort rows within the topic by title alphabetically
+        rows = sorted(by_topic[topic], key=lambda x: x["title"].lower())
+
         for row in rows:
             index.append(
                 "* [{title}]({url}) - {date}".format(
@@ -29,9 +30,12 @@ if __name__ == "__main__":
                 )
             )
         index.append("")
+
     if index[-1] == "":
         index.pop()
+
     index.append("<!-- index ends -->")
+
     if "--rewrite" in sys.argv:
         readme = root / "README.md"
         index_txt = "\n".join(index).strip()
