@@ -1,5 +1,6 @@
 # til
-Today I Learned
+
+My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til). 
 
 <!-- index starts -->
 ## github
