@@ -58,10 +58,10 @@ urlpatterns += [
 ]
 ```
 
-5. Add some simple templates for the new blocks. The `/templates/streamblocks/`
+5. Add some simple templates for the new blocks. 
 
 ```html
-<!-- templates/streamblocks/blocks/richtext.html -->
+<!-- templates/streamblocks/richtext.html -->
 <div class="rich-text-block">
     {{ block_content.text|safe }}
 </div>
