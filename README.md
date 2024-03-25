@@ -19,6 +19,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Finding the longest value of a particular field](https://github.com/williln/til/blob/main/django/longest_value_in_field.md) - 2024-02-28
 * [Handling 404 Responses in Django](https://github.com/williln/til/blob/main/django/404_handling.md) - 2023-04-19
 * [How I added a very simple django-streamfield example to a project](https://github.com/williln/til/blob/main/django/how_I_added_django_streamfield.md) - 2024-03-18
+* [How I set up `django-activity-stream`, including a simple test](https://github.com/williln/til/blob/main/django/how_i_added_django_activity_stream_with_test.md) - 2024-03-25
 * [How to confirm that login is required in your Django view](https://github.com/williln/til/blob/main/django/how_to_test_view_auth.md) - 2023-02-22
 * [How to log in a test user in a `pytest` unit test](https://github.com/williln/til/blob/main/django/test_protected_page.md) - 2023-02-22
 * [How to test a file upload with `pytest` and `SimpleUploadedFile`](https://github.com/williln/til/blob/main/django/testing_file_upload_pytest.md) - 2023-02-22
