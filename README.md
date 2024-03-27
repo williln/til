@@ -99,5 +99,6 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Create a Custom Nested Block for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/create_custom_nested_block_for_streamfield.md) - 2024-02-26
 * [Creating Custom StreamField Blocks](https://github.com/williln/til/blob/main/wagtail/create_custom_streamfield_block.md) - 2024-02-26
 * [Example of linking Django models to Wagtail Page models](https://github.com/williln/til/blob/main/wagtail/example_integrating_wagtail_page_models_into_django_models.md) - 2024-02-26
+* [Seeding my Wagtail site](https://github.com/williln/til/blob/main/wagtail/seeding_wagtail_site.md) - 2024-03-27
 * [What to do if you delete the default Wagtail homepage](https://github.com/williln/til/blob/main/wagtail/fix_deleted_root_page.md) - 2024-03-25
 <!-- index ends -->
