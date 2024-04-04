@@ -70,6 +70,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Making a collapsible markdown section](https://github.com/williln/til/blob/main/markdown/collapsible_markdown.md) - 2022-11-05
 
+## meilisearch
+
+* [Setting up Meilisearch with Python, Docker, and Compose for local development](https://github.com/williln/til/blob/main/meilisearch/setting_up_meilisearch_python_docker.md) - 2024-04-04
+
 ## misc
 
 * [Relume Design League - competitive web design](https://github.com/williln/til/blob/main/misc/competitive_web_design.md) - 2022-11-05
