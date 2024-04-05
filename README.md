@@ -73,6 +73,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ## meilisearch
 
 * [Securing Meilisearch with Docker for local Django development](https://github.com/williln/til/blob/main/meilisearch/securing_meilisearch_in_docker.md) - 2024-04-04
+* [Securing the Meilisearch search itself](https://github.com/williln/til/blob/main/meilisearch/securing_meilisearch_search.md) - 2024-04-05
 * [Setting up Meilisearch with Python, Docker, and Compose for local development](https://github.com/williln/til/blob/main/meilisearch/setting_up_meilisearch_python_docker.md) - 2024-04-04
 
 ## misc
