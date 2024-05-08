@@ -1,5 +1,7 @@
 # Scheduling a nightly Celery task with Celery Beat
 
+Source: [Periodic Tasks — Celery 5.4.0 documentation](https://docs.celeryq.dev/en/stable/userguide/periodic-tasks.html#crontab-schedules) 
+
 We have a task in `myapp/tasks.py`:
 
 ```python
