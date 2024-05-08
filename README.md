@@ -7,6 +7,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [AWS S3 and Boto3 Cheat Sheet](https://github.com/williln/til/blob/main/aws/s3_and_boto_and_minio.md) - 2024-03-18
 
+## celery
+
+* [Scheduling a nightly Celery task with Celery Beat](https://github.com/williln/til/blob/main/celery/schedule_nightly_task.md) - 2024-05-08
+
 ## django
 
 * [Adding a custom field to the Django admin list display](https://github.com/williln/til/blob/main/django/custom_fields.md) - 2024-03-18
