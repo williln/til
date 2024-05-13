@@ -50,6 +50,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Converting a `fastcore.basics.AttrDict` into a regular dictionary.](https://github.com/williln/til/blob/main/fast-ai/obj2dict.md) - 2024-03-18
 
+## git
+
+* [Moving from an old repo to a new repo in another organization](https://github.com/williln/til/blob/main/git/moving_to_a_new_repo.md) - 2024-05-13
+
 ## github
 
 * [Commenting on an issue from a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-comment-issue.md) - 2022-11-04
