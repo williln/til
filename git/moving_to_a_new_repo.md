@@ -73,3 +73,7 @@ In my case, we will be moving the open issues by and (as in, manually recreating
  ## 8. Archive the old repo 
 
  [Archiving repositories - GitHub Docs](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories)
+
+ ## Thanks 
+
+ Thank you to [Jeff Triplett](https://webology.dev/) for walking me through this as part of a client project. 
