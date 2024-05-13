@@ -74,6 +74,19 @@ In my case, we will be moving the open issues by and (as in, manually recreating
 
  [Archiving repositories - GitHub Docs](https://docs.github.com/en/repositories/archiving-a-github-repository/archiving-repositories)
 
+ ## Debugging: Fixing some issues tracking branches after the switch was made 
+
+My local `main` branch was still tracking the `org-a/main` branch. Even after resetting my local branch to align with the new `origin/main` at `org-b`, `git status` kept showing that my branch had diverged from `org-a/main` with a bunch of different commits.
+
+The problem was that I still had the `org-a` branch set as the `upstream`, so I ran these and the problem was fixed:
+
+```bash
+$ git branch --unset-upstream
+$ git branch --set-upstream-to=origin/main main
+$ git fetch origin
+$ git reset --hard origin/main // This will trash any local commits you have!! 
+```
+
  ## Thanks 
 
  Thank you to [Jeff Triplett](https://webology.dev/) for walking me through this as part of a client project. 
