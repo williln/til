@@ -74,6 +74,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home-office/printer.md) - 2024-03-18
 
+## kubernetes
+
+* [Setting up Kubernetes access on MacOS with a config file](https://github.com/williln/til/blob/main/kubernetes/setting_up_new_access_mac.md) - 2024-05-14
+
 ## markdown
 
 * [Making a collapsible markdown section](https://github.com/williln/til/blob/main/markdown/collapsible_markdown.md) - 2022-11-05
