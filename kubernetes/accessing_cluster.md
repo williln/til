@@ -59,7 +59,7 @@ kubernetes   ClusterIP   00.000.0.1   <none>        443/TCP   24d
 ### Open a Shell to a Running Container:
 
 ```bash
-$ kubectl exec -it <pod-name> -- /bin/bash
+$ kubectl -n [namespace] exec -it <pod-name> bash
 ```
 
 This command is particularly useful for debugging issues directly inside the container or running management commands. 
