@@ -36,7 +36,7 @@ To further debug and diagnose cluster problems, use 'kubectl cluster-info dump'.
 ### List All Nodes:
 
 ```bash
-$ kubectl get nodes
+$ kubectl -n [namespace] get nodes
 NAME                      STATUS   ROLES    AGE   VERSION
 default-node-pool-qwer3   Ready    <none>   24   v1.00.1
 default-node-pool-qwer7   Ready    <none>   24   v1.00.1
@@ -45,30 +45,17 @@ default-node-pool-qwer7   Ready    <none>   24   v1.00.1
 ### List All Pods in the Default Namespace:
 
 ```bash
-$ kubectl get pods
+$ kubectl -n [namespace] get pods
 No resources found in default namespace.
 ```
 
 ### List All Services in the Default Namespace:
 
 ```bash
-$ kubectl get services
+$ kubectl -n [namespace] get services
 NAME         TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)   AGE
 kubernetes   ClusterIP   00.000.0.1   <none>        443/TCP   24d
 ```
-
-### Get Detailed Information About a Specific Pod:
-
-```bash
-$ kubectl describe pod <pod-name>
-```
-
-### Access a Pod's Logs:
-
-```bash
-$ kubectl logs <pod-name>
-```
-
 ### Open a Shell to a Running Container:
 
 ```bash
