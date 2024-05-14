@@ -76,6 +76,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 ## kubernetes
 
+* [Accessing a Kubernetes cluster for the first time](https://github.com/williln/til/blob/main/kubernetes/accessing_cluster.md) - 2024-05-14
 * [Setting up Kubernetes access on MacOS with a config file](https://github.com/williln/til/blob/main/kubernetes/setting_up_new_access_mac.md) - 2024-05-14
 
 ## markdown
