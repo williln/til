@@ -5,38 +5,36 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ## Topics
 
 <!-- toc starts -->
-- [til](#til)
-  - [Topics](#topics)
-  - [aws](#aws)
-  - [celery](#celery)
-  - [django](#django)
-  - [django-rest-framework](#django-rest-framework)
-  - [drf-yasg](#drf-yasg)
-  - [fast-ai](#fast-ai)
-  - [git](#git)
-  - [github](#github)
-  - [google](#google)
-  - [home-office](#home-office)
-  - [kubernetes](#kubernetes)
-  - [markdown](#markdown)
-  - [meilisearch](#meilisearch)
-  - [misc](#misc)
-  - [pytest](#pytest)
-  - [python](#python)
-  - [r](#r)
-  - [wagtail](#wagtail)
+* [aws](#aws)
+* [celery](#celery)
+* [django](#django)
+* [django-rest-framework](#django-rest-framework)
+* [drf-yasg](#drf-yasg)
+* [fast-ai](#fast-ai)
+* [git](#git)
+* [github](#github)
+* [google](#google)
+* [home-office](#home-office)
+* [kubernetes](#kubernetes)
+* [markdown](#markdown)
+* [meilisearch](#meilisearch)
+* [misc](#misc)
+* [pytest](#pytest)
+* [python](#python)
+* [r](#r)
+* [wagtail](#wagtail)
 <!-- toc ends -->
 
 <!-- index starts -->
-## aws
+### aws
 
 * [AWS S3 and Boto3 Cheat Sheet](https://github.com/williln/til/blob/main/aws/s3_and_boto_and_minio.md) - 2024-03-18
 
-## celery
+### celery
 
 * [Scheduling a nightly Celery task with Celery Beat](https://github.com/williln/til/blob/main/celery/schedule_nightly_task.md) - 2024-05-08
 
-## django
+### django
 
 * [Adding a custom field to the Django admin list display](https://github.com/williln/til/blob/main/django/custom_fields.md) - 2024-03-18
 * [Adding a custom tag with `django-taggit`](https://github.com/williln/til/blob/main/django/django-taggit-custom-tag.md) - 2022-11-09
@@ -60,26 +58,26 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Using Enums in a Django Model ChoiceField (Django 2.2)](https://github.com/williln/til/blob/main/django/enums_as_choices.md) - 2020-05-26
 * [Why won't my Django file URLs come back signed from S3?](https://github.com/williln/til/blob/main/django/aws_signed_urls.md) - 2021-01-08
 
-## django-rest-framework
+### django-rest-framework
 
 * [Adding a custom pagination class to an action](https://github.com/williln/til/blob/main/django-rest-framework/custom_action_pagination.md) - 2022-10-25
 * [Passing extra info in `context` to your DRF serializer](https://github.com/williln/til/blob/main/django-rest-framework/pass_to_context.md) - 2021-01-22
 
-## drf-yasg
+### drf-yasg
 
 * [How to document your query parameters for `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/query_params.md) - 2021-01-28
 * [How to properly serialize a `serializer_method_field` with `drf_yasg`](https://github.com/williln/til/blob/main/drf-yasg/serializer_method_field.md) - 2021-01-28
 * [How to serialize your request parameters for POST/PUT/PATCH requests](https://github.com/williln/til/blob/main/drf-yasg/define_request_body.md) - 2021-01-28
 
-## fast-ai
+### fast-ai
 
 * [Converting a `fastcore.basics.AttrDict` into a regular dictionary.](https://github.com/williln/til/blob/main/fast-ai/obj2dict.md) - 2024-03-18
 
-## git
+### git
 
 * [Moving from an old repo to a new repo in another organization](https://github.com/williln/til/blob/main/git/moving_to_a_new_repo.md) - 2024-05-13
 
-## github
+### github
 
 * [Commenting on an issue from a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-comment-issue.md) - 2022-11-04
 * [Creating a new file and committing it using a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-step-to-create-and-commt-a-file.md) - 2022-11-04
@@ -91,38 +89,38 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Setting output for a step in a job, so a different job can use it](https://github.com/williln/til/blob/main/github/gh-action-set-output.md) - 2022-11-04
 * [Temporarily disabling a GitHub action without touching the workflow file](https://github.com/williln/til/blob/main/github/gh_actions_temporary_disable.md) - 2022-11-07
 
-## google
+### google
 
 * [Using Google Cloud Service Accounts and authenticating as a dictionary (without the json file) in a Django project](https://github.com/williln/til/blob/main/google/using_service_account_as_dict.md) - 2024-03-01
 
-## home-office
+### home-office
 
 * [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home-office/printer.md) - 2024-03-18
 
-## kubernetes
+### kubernetes
 
 * [Accessing a Kubernetes cluster for the first time](https://github.com/williln/til/blob/main/kubernetes/accessing_cluster.md) - 2024-05-14
 * [Setting up Kubernetes access on MacOS with a config file](https://github.com/williln/til/blob/main/kubernetes/setting_up_new_access_mac.md) - 2024-05-14
 
-## markdown
+### markdown
 
 * [Making a collapsible markdown section](https://github.com/williln/til/blob/main/markdown/collapsible_markdown.md) - 2022-11-05
 
-## meilisearch
+### meilisearch
 
 * [Securing Meilisearch with Docker for local Django development](https://github.com/williln/til/blob/main/meilisearch/securing_meilisearch_in_docker.md) - 2024-04-04
 * [Securing the Meilisearch search itself](https://github.com/williln/til/blob/main/meilisearch/securing_meilisearch_search.md) - 2024-04-05
 * [Setting up Meilisearch with Python, Docker, and Compose for local development](https://github.com/williln/til/blob/main/meilisearch/setting_up_meilisearch_python_docker.md) - 2024-04-04
 
-## misc
+### misc
 
 * [Relume Design League - competitive web design](https://github.com/williln/til/blob/main/misc/competitive_web_design.md) - 2022-11-05
 
-## pytest
+### pytest
 
 * [Test that an exception is raised](https://github.com/williln/til/blob/main/pytest/assert_raises.md) - 2023-03-02
 
-## python
+### python
 
 * [ChatGPT-4 distills the Python `mailbox` docs for me.](https://github.com/williln/til/blob/main/python/mailbox.md) - 2023-04-24
 * [Create a new Python virtual environment](https://github.com/williln/til/blob/main/python/new-virtualenv.md) - 2022-10-14
@@ -130,12 +128,12 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [How to sort a Python dictionary by key or value](https://github.com/williln/til/blob/main/python/sort_dictionary.md) - 2021-02-02
 * [How to sort a Python dictionary by multiple values](https://github.com/williln/til/blob/main/python/sort_dict_multiple_keys.md) - 2021-02-02
 
-## r
+### r
 
 * [`taylor`: The Taylor Swift / R Project](https://github.com/williln/til/blob/main/r/taylor_swift.md) - 2023-04-21
 * [How to convert an `.rda` file to JSON](https://github.com/williln/til/blob/main/r/convert_rda_to_json.md) - 2023-04-21
 
-## wagtail
+### wagtail
 
 * [Add Wagtail to an existing Django project](https://github.com/williln/til/blob/main/wagtail/add_to_existing_project.md) - 2024-02-26
 * [Cheat Sheet for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_streamfield.md) - 2024-02-26
