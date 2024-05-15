@@ -2,6 +2,31 @@
 
 My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til). 
 
+## Topics
+
+<!-- toc starts -->
+- [til](#til)
+  - [Topics](#topics)
+  - [aws](#aws)
+  - [celery](#celery)
+  - [django](#django)
+  - [django-rest-framework](#django-rest-framework)
+  - [drf-yasg](#drf-yasg)
+  - [fast-ai](#fast-ai)
+  - [git](#git)
+  - [github](#github)
+  - [google](#google)
+  - [home-office](#home-office)
+  - [kubernetes](#kubernetes)
+  - [markdown](#markdown)
+  - [meilisearch](#meilisearch)
+  - [misc](#misc)
+  - [pytest](#pytest)
+  - [python](#python)
+  - [r](#r)
+  - [wagtail](#wagtail)
+<!-- toc ends -->
+
 <!-- index starts -->
 ## aws
 
