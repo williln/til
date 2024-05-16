@@ -27,13 +27,11 @@ class SimplePage(Page):
     template = "core/simple_page.html"
 ```
 
-For reference, here is the [Python.org Privacy Policy](https://www.python.org/privacy/). 
-
-To create this page, I would use this method: 
+For reference, here is the [Python.org Privacy Policy](https://www.python.org/privacy/). Let's create this page: 
 
 ```python
 from my_app.models import SimplePage
-from my_app.utils import get_root_page
+from my_app.utils import create_page, get_root_page
 
 
 PRIVACY_PAGE_DATA = {
