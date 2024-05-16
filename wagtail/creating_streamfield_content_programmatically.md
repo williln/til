@@ -46,7 +46,7 @@ PRIVACY_PAGE_DATA = {
     ],
 }
 
-# retrive the root page 
+# Retrieve the root page 
 root = get_root_page()
 
 # Create the privacy page with the StreamField data
