@@ -2,6 +2,8 @@
 
 My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til). 
 
+---
+
 ## Topics
 
 <!-- toc starts -->
@@ -24,6 +26,8 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [r](#r)
 * [wagtail](#wagtail)
 <!-- toc ends -->
+
+---
 
 <!-- index starts -->
 ### aws
