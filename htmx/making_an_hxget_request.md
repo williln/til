@@ -1,10 +1,10 @@
-# Making a simple API call to an endpoint with HTMX 
+# Making a simple `hx-get` request 
 
 Disclaimer: I am a real beginner at HTMX but I am trying to learn. Might be some errors in here.  
 
 ## Use case 
 
-As the user types in a search box, the contents of the search box are sent to an API that returns results. The results are rendered appropriately. 
+As the user types in a search box, the contents of the search box are sent to an endpoint that returns results. The results are rendered appropriately. 
 
 ```html
 <!-- includes/sample.html -->
