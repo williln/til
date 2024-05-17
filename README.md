@@ -17,6 +17,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [github](#github)
 * [google](#google)
 * [home-office](#home-office)
+* [htmx](#htmx)
 * [kubernetes](#kubernetes)
 * [markdown](#markdown)
 * [meilisearch](#meilisearch)
@@ -100,6 +101,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### home-office
 
 * [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home-office/printer.md) - 2024-03-18
+
+### htmx
+
+* [Making a simple API call to an endpoint with HTMX](https://github.com/williln/til/blob/main/htmx/make_an_api_call_meilisearch.md) - 2024-05-16
 
 ### kubernetes
 
