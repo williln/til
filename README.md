@@ -19,6 +19,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [home-office](#home-office)
 * [htmx](#htmx)
 * [kubernetes](#kubernetes)
+* [mac](#mac)
 * [markdown](#markdown)
 * [meilisearch](#meilisearch)
 * [misc](#misc)
@@ -111,6 +112,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Accessing a Kubernetes cluster for the first time](https://github.com/williln/til/blob/main/kubernetes/accessing_cluster.md) - 2024-05-14
 * [Setting up Kubernetes access on MacOS with a config file](https://github.com/williln/til/blob/main/kubernetes/setting_up_new_access_mac.md) - 2024-05-14
+
+### mac
+
+* [Control when your laptop locks, turns off the display, etc.](https://github.com/williln/til/blob/main/mac/control_when_machine_locks.md) - 2024-05-22
 
 ### markdown
 
