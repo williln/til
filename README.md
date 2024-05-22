@@ -25,6 +25,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [pytest](#pytest)
 * [python](#python)
 * [r](#r)
+* [slack](#slack)
 * [wagtail](#wagtail)
 <!-- toc ends -->
 
@@ -141,6 +142,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [`taylor`: The Taylor Swift / R Project](https://github.com/williln/til/blob/main/r/taylor_swift.md) - 2023-04-21
 * [How to convert an `.rda` file to JSON](https://github.com/williln/til/blob/main/r/convert_rda_to_json.md) - 2023-04-21
+
+### slack
+
+* [Keep Slack from kicking you out of huddles when your machine locks](https://github.com/williln/til/blob/main/slack/computer_locking_kicks_out_of_huddles.md) - 2024-05-22
 
 ### wagtail
 
