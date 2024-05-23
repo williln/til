@@ -18,6 +18,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [google](#google)
 * [home-office](#home-office)
 * [htmx](#htmx)
+* [javascript](#javascript)
 * [kubernetes](#kubernetes)
 * [mac](#mac)
 * [markdown](#markdown)
@@ -107,6 +108,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### htmx
 
 * [Making a simple `hx-get` request](https://github.com/williln/til/blob/main/htmx/making_an_hxget_request.md) - 2024-05-16
+
+### javascript
+
+* [TimelineJS for building interactive timelines from spreadsheet or JSON](https://github.com/williln/til/blob/main/javascript/timeline.md) - 2024-05-22
 
 ### kubernetes
 
