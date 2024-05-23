@@ -111,7 +111,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 ### javascript
 
-* [TimelineJS for building interactive timelines from spreadsheet or JSON](https://github.com/williln/til/blob/main/javascript/timeline.md) - 2024-05-22
+* [TimelineJS for building interactive timelines from spreadsheet or JSON](https://github.com/williln/til/blob/main/javascript/timelinejs.md) - 2024-05-22
 
 ### kubernetes
 
