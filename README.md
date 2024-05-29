@@ -45,6 +45,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 ### django
 
+* [Adding a custom context processor to your Django app so you can include bits of data in your template headers more easily](https://github.com/williln/til/blob/main/django/add_context_processor.md) - 2024-05-29
 * [Adding a custom field to the Django admin list display](https://github.com/williln/til/blob/main/django/custom_fields.md) - 2024-03-18
 * [Adding a custom tag with `django-taggit`](https://github.com/williln/til/blob/main/django/django-taggit-custom-tag.md) - 2022-11-09
 * [Adding ability to search in the Django Admin](https://github.com/williln/til/blob/main/django/add_search.md) - 2024-03-18
