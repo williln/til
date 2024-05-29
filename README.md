@@ -23,6 +23,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [mac](#mac)
 * [markdown](#markdown)
 * [meilisearch](#meilisearch)
+* [microsoft-dynamics](#microsoft-dynamics)
 * [misc](#misc)
 * [pytest](#pytest)
 * [python](#python)
@@ -131,6 +132,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Securing Meilisearch with Docker for local Django development](https://github.com/williln/til/blob/main/meilisearch/securing_meilisearch_in_docker.md) - 2024-04-04
 * [Securing the Meilisearch search itself](https://github.com/williln/til/blob/main/meilisearch/securing_meilisearch_search.md) - 2024-04-05
 * [Setting up Meilisearch with Python, Docker, and Compose for local development](https://github.com/williln/til/blob/main/meilisearch/setting_up_meilisearch_python_docker.md) - 2024-04-04
+
+### microsoft-dynamics
+
+* [About Microsoft Dynamics](https://github.com/williln/til/blob/main/microsoft-dynamics/about-microsoft-dynamics.md) - 2024-05-29
 
 ### misc
 
