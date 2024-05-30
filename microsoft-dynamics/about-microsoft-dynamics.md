@@ -8,6 +8,24 @@ I've never used MS Dynamics, and I wanted to document how I learned what to do.
 
 ## Links 
 
+### [API (v2.0) for Dynamics 365 Business Central](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v2.0/)
+
+<img width="1724" alt="Screenshot 2024-05-30 at 8 56 06 AM" src="https://github.com/williln/til/assets/2286304/ed3f427f-f3f2-462a-adb2-3edf634aadf4">
+
+Links to... 
+
+### [Enabling APIs for Microsoft Dynamics 365 Business Central](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v2.0/enabling-apis-for-dynamics-nav)
+
+If I am understanding this right, then the admin for the Microsoft Dynamics account needs to run several shell scripts in the Business Central Administration Shell to enable the APIs, then I can start using the endpoints: [Endpoints for the APIs for Microsoft Dynamics 365 Business Central - Business Central | Microsoft Learn](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/api-reference/v2.0/endpoints-apis-for-dynamics) 
+
+<img width="1725" alt="Screenshot 2024-05-30 at 8 57 06 AM" src="https://github.com/williln/til/assets/2286304/2ca3cf02-2b34-464e-9233-0c6830fb3a16">
+
+
+--- 
+## Version 1: First round, knew nothing 
+
+This is the research I did in my first round. 
+
 ### [Dynamics 365 REST APIs | Microsoft Learn](https://learn.microsoft.com/en-us/rest/dynamics365/)
 
 > Dynamics 365 unifies the capabilities of CRM business software and ERP systems by providing intelligent applications that seamlessly work together in the cloud. For more information, see [Dynamics 365 documentation](https://learn.microsoft.com/en-us/dynamics365/).
