@@ -66,6 +66,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Using `django-countries`](https://github.com/williln/til/blob/main/django/django_countries.md) - 2024-04-02
 * [Using Django Aggregation](https://github.com/williln/til/blob/main/django/aggregation.md) - 2021-01-22
 * [Using Enums in a Django Model ChoiceField (Django 2.2)](https://github.com/williln/til/blob/main/django/enums_as_choices.md) - 2020-05-26
+* [Using inline formsets with `inlineformset_factory`](https://github.com/williln/til/blob/main/django/using_inline_formsets.md) - 2024-06-03
 * [Why won't my Django file URLs come back signed from S3?](https://github.com/williln/til/blob/main/django/aws_signed_urls.md) - 2021-01-08
 
 ### django-rest-framework
