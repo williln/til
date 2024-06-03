@@ -111,6 +111,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### htmx
 
 * [Making a simple `hx-get` request](https://github.com/williln/til/blob/main/htmx/making_an_hxget_request.md) - 2024-05-16
+* [Updating other elements on the page with `hx-swap-oob`](https://github.com/williln/til/blob/main/htmx/out_of_band_swaps.md) - 2024-06-03
 
 ### javascript
 
