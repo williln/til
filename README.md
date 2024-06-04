@@ -172,6 +172,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [ChatGPT-4 distills the Python `mailbox` docs for me.](https://github.com/williln/til/blob/main/python/mailbox.md) - 2023-04-24
 * [Create a new Python virtual environment](https://github.com/williln/til/blob/main/python/new-virtualenv.md) - 2022-10-14
 * [Generate a markdown file with a table of contents in Python](https://github.com/williln/til/blob/main/python/generate-toc.md) - 2022-10-28
+* [Generating a clickable table-of-contents for each directory in my TILs](https://github.com/williln/til/blob/main/python/generate_toc_for_subdirectory.md) - 2024-06-03
 * [How to sort a Python dictionary by key or value](https://github.com/williln/til/blob/main/python/sort_dictionary.md) - 2021-02-02
 * [How to sort a Python dictionary by multiple values](https://github.com/williln/til/blob/main/python/sort_dict_multiple_keys.md) - 2021-02-02
 * [python](https://github.com/williln/til/blob/main/python/README.md) - 2024-06-03
