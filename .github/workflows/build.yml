@@ -32,7 +32,7 @@ jobs:
         run: python build_database.py
       - name: Update README
         run: |-
-          python scripts/update_readme.py --rewrite
+          python update_readme.py --rewrite
           cat README.md
       - name: Update subdir README's 
         run: |-
