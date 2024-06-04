@@ -77,6 +77,8 @@ This generates something like:
 
 ## GitHub Action 
 
+> Note: This is currently broken. The Action "succeeds" but the README didn't change. 
+
 Then, I added calls to this script for each TIL directory I wanted to include to the existing GitHub action. 
 
 ```yaml
@@ -111,4 +113,4 @@ This does mean that I will need to manually add a new line to the GitHub action 
 ## Notes 
 
 - As soon as I finished, it occured to me that I could have done this in a DRY-er way by re-using more of the code in `update_readme.py`. But I was re-using code from a side project that worked a little differently, so I tried a different pattern. 
-- I tried to move the scripts for the project-level README into `scripts/` but there was a git-related `InvalidGitRepositoryError` error that I didn't feel like debugging, so I just moved them back out. 
+- I tried to move the scripts for the project-level README into `scripts/` but there was a git-related `InvalidGitRepositoryError` error that I didn't feel like debugging, so I just moved them back out.
