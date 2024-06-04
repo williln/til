@@ -29,7 +29,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Build database
-        run: python scripts/build_database.py
+        run: python build_database.py
       - name: Update README
         run: |-
           python scripts/update_readme.py --rewrite
