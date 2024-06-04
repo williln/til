@@ -29,15 +29,40 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
       - name: Build database
-        run: python build_database.py
+        run: python scripts/build_database.py
       - name: Update README
         run: |-
-          python update_readme.py --rewrite
+          python scripts/update_readme.py --rewrite
           cat README.md
-      - name: Commit and push if README changed
+      - name: Update subdir README's 
+        run: |-
+          python3 scripts/build_subdir_toc.py aws
+          python3 scripts/build_subdir_toc.py celery
+          python3 scripts/build_subdir_toc.py django
+          python3 scripts/build_subdir_toc.py django-rest-framework
+          python3 scripts/build_subdir_toc.py drf-yasg
+          python3 scripts/build_subdir_toc.py fast-ai
+          python3 scripts/build_subdir_toc.py git
+          python3 scripts/build_subdir_toc.py github
+          python3 scripts/build_subdir_toc.py google
+          python3 scripts/build_subdir_toc.py home-office
+          python3 scripts/build_subdir_toc.py htmx
+          python3 scripts/build_subdir_toc.py javascript
+          python3 scripts/build_subdir_toc.py kubernetes
+          python3 scripts/build_subdir_toc.py mac
+          python3 scripts/build_subdir_toc.py markdown
+          python3 scripts/build_subdir_toc.py meilisearch
+          python3 scripts/build_subdir_toc.py microsoft-dynamics
+          python3 scripts/build_subdir_toc.py misc
+          python3 scripts/build_subdir_toc.py pytest
+          python3 scripts/build_subdir_toc.py python
+          python3 scripts/build_subdir_toc.py r
+          python3 scripts/build_subdir_toc.py slack
+          python3 scripts/build_subdir_toc.py wagtail
+      - name: Commit and push if anything changed
         run: |-
           git diff
           git config --global user.email "readme-bot@example.com"
           git config --global user.name "README-bot"
-          git diff --quiet || (git add README.md && git commit -m "Updated README")
+          git diff --quiet || (git add README.md && git commit -m "Updated READMEs")
           git push
