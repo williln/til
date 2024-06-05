@@ -17,6 +17,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [github](#github)
 * [google](#google)
 * [home-office](#home-office)
+* [html](#html)
 * [htmx](#htmx)
 * [javascript](#javascript)
 * [kubernetes](#kubernetes)
@@ -117,6 +118,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [home-office](https://github.com/williln/til/blob/main/home-office/README.md) - 2024-06-03
 * [Troubleshooting my Brother HL-2270DW Wireless Printer](https://github.com/williln/til/blob/main/home-office/printer.md) - 2024-03-18
+
+### html
+
+* [Creating responsive images with `srcset`, `sizes`, and `<picture>`](https://github.com/williln/til/blob/main/html/responsive_images_with_picture_element.md) - 2024-06-05
 
 ### htmx
 
