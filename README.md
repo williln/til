@@ -197,6 +197,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### stripe
 
 * [Generating a `PaymentIntent` and saving it to a Django model](https://github.com/williln/til/blob/main/stripe/payment_intents.md) - 2024-06-06
+* [Using off-session payments and `setup_future_usage`](https://github.com/williln/til/blob/main/stripe/off_session_payments.md) - 2024-06-06
 
 ### wagtail
 
