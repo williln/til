@@ -30,6 +30,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [python](#python)
 * [r](#r)
 * [slack](#slack)
+* [stripe](#stripe)
 * [wagtail](#wagtail)
 <!-- toc ends -->
 
@@ -192,6 +193,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Keep Slack from kicking you out of huddles when your machine locks](https://github.com/williln/til/blob/main/slack/computer_locking_kicks_out_of_huddles.md) - 2024-05-22
 * [slack](https://github.com/williln/til/blob/main/slack/README.md) - 2024-06-03
+
+### stripe
+
+* [Getting started with Stripe](https://github.com/williln/til/blob/main/stripe/getting_started.md) - 2024-06-06
 
 ### wagtail
 
