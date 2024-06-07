@@ -196,7 +196,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 ### stripe
 
-* [Getting started with Stripe](https://github.com/williln/til/blob/main/stripe/getting_started.md) - 2024-06-06
+* [Generating a `PaymentIntent` and saving it to a Django model](https://github.com/williln/til/blob/main/stripe/payment_intents.md) - 2024-06-06
 
 ### wagtail
 
