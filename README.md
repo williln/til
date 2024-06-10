@@ -196,6 +196,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 ### stripe
 
+* [Creating a PaymentIntent, but not capturing it, and allowing more to be charged later](https://github.com/williln/til/blob/main/stripe/uncaptured_payment_intents_and_overcapture.md) - 2024-06-10
 * [Generating a `PaymentIntent` and saving it to a Django model](https://github.com/williln/til/blob/main/stripe/payment_intents.md) - 2024-06-06
 * [Using off-session payments and `setup_future_usage`](https://github.com/williln/til/blob/main/stripe/off_session_payments.md) - 2024-06-06
 
