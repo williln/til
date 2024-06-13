@@ -123,6 +123,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### html
 
 * [Creating responsive images with `srcset`, `sizes`, and `<picture>`](https://github.com/williln/til/blob/main/html/responsive_images_with_picture_element.md) - 2024-06-05
+* [html](https://github.com/williln/til/blob/main/html/README.md) - 2024-06-12
 * [Stop search engines from indexing your site and showing it in search results](https://github.com/williln/til/blob/main/html/stop_google_from_indexing_your_site.md) - 2024-06-12
 
 ### htmx
@@ -199,6 +200,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 
 * [Creating a PaymentIntent, but not capturing it, and allowing more to be charged later](https://github.com/williln/til/blob/main/stripe/uncaptured_payment_intents_and_overcapture.md) - 2024-06-10
 * [Generating a `PaymentIntent` and saving it to a Django model](https://github.com/williln/til/blob/main/stripe/payment_intents.md) - 2024-06-06
+* [stripe](https://github.com/williln/til/blob/main/stripe/README.md) - 2024-06-12
 * [Using off-session payments and `setup_future_usage`](https://github.com/williln/til/blob/main/stripe/off_session_payments.md) - 2024-06-06
 
 ### wagtail
