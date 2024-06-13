@@ -39,6 +39,9 @@ def generate_index():
         index.append("### {}\n".format(topic))
         rows = sorted(by_topic[topic], key=lambda x: x["title"].lower())
         for row in rows:
+            if "README.md" in row["path"]:
+                continue
+
             index.append(
                 "* [{title}]({url}) - {date}".format(
                     date=row["created"].split("T")[0], **row
