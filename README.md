@@ -123,6 +123,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### html
 
 * [Creating responsive images with `srcset`, `sizes`, and `<picture>`](https://github.com/williln/til/blob/main/html/responsive_images_with_picture_element.md) - 2024-06-05
+* [Stop search engines from indexing your site and showing it in search results](https://github.com/williln/til/blob/main/html/stop_google_from_indexing_your_site.md) - 2024-06-12
 
 ### htmx
 
