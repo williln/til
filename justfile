@@ -26,4 +26,5 @@ build-internal-readmes:
     python3 scripts/build_subdir_toc.py python
     python3 scripts/build_subdir_toc.py r
     python3 scripts/build_subdir_toc.py slack
+    python3 scripts/build_subdir_toc.py stripe
     python3 scripts/build_subdir_toc.py wagtail

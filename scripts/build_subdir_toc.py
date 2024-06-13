@@ -30,6 +30,10 @@ def generate_readme_links(directory):
                 if not title:
                     continue
 
+                # Skip the README file.
+                if file == "README.md":
+                    continue
+
                 file_path = os.path.join(root, file)
                 relative_path = os.path.relpath(file_path, directory)
                 contents.append(f"- [{title}]({relative_path})")
