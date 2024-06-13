@@ -13,6 +13,7 @@ build-internal-readmes:
     python3 scripts/build_subdir_toc.py github
     python3 scripts/build_subdir_toc.py google
     python3 scripts/build_subdir_toc.py home-office
+    python3 scripts/build_subdir_toc.py html
     python3 scripts/build_subdir_toc.py htmx
     python3 scripts/build_subdir_toc.py javascript
     python3 scripts/build_subdir_toc.py kubernetes
