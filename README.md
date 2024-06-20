@@ -65,6 +65,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Testing Django signals, and disabling signals in tests (Django 2.2)](https://github.com/williln/til/blob/main/django/testing_django_signals.md) - 2020-07-27
 * [Using `Coalesce` to provide a default value for `aggregate` queries](https://github.com/williln/til/blob/main/django/aggregation_coalesce.md) - 2021-02-18
 * [Using `defer()` to limit the data you get from your models](https://github.com/williln/til/blob/main/django/defer.md) - 2022-10-19
+* [Using `django-admin-env-notice` to add an envioronment notice to the frontend](https://github.com/williln/til/blob/main/django/add_env_banner_to_frontend.md) - 2024-06-20
 * [Using `django-countries`](https://github.com/williln/til/blob/main/django/django_countries.md) - 2024-04-02
 * [Using Django Aggregation](https://github.com/williln/til/blob/main/django/aggregation.md) - 2021-01-22
 * [Using Enums in a Django Model ChoiceField (Django 2.2)](https://github.com/williln/til/blob/main/django/enums_as_choices.md) - 2020-05-26
