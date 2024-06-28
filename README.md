@@ -26,6 +26,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [meilisearch](#meilisearch)
 * [microsoft-dynamics](#microsoft-dynamics)
 * [misc](#misc)
+* [pre-commit](#pre-commit)
 * [pytest](#pytest)
 * [python](#python)
 * [r](#r)
@@ -151,6 +152,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### misc
 
 * [Relume Design League - competitive web design](https://github.com/williln/til/blob/main/misc/competitive_web_design.md) - 2022-11-05
+
+### pre-commit
+
+* [Setting up `pre-commit` in a new project](https://github.com/williln/til/blob/main/pre-commit/setup.md) - 2024-06-28
 
 ### pytest
 
