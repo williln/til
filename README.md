@@ -188,6 +188,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### wagtail
 
 * [Add Wagtail to an existing Django project](https://github.com/williln/til/blob/main/wagtail/add_to_existing_project.md) - 2024-02-26
+* [Adding a Wagtail image programmatically](https://github.com/williln/til/blob/main/wagtail/add_image_programmatically.md) - 2024-07-01
 * [Cheat Sheet for Wagtail StreamField](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_streamfield.md) - 2024-02-26
 * [Cheat Sheet: Wagtail Page Model Fields](https://github.com/williln/til/blob/main/wagtail/cheat_sheet_wagtail_page_model_fields.md) - 2024-02-26
 * [Choosing Between Wagtail Page Models and Django Models](https://github.com/williln/til/blob/main/wagtail/choosing_wagtail_page_models_vs_django_models.md) - 2024-02-26
