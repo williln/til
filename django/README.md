@@ -20,6 +20,7 @@
 - [Using Enums in a Django Model ChoiceField (Django 2.2)](enums_as_choices.md)
 - [Using `Coalesce` to provide a default value for `aggregate` queries](aggregation_coalesce.md)
 - [Using `defer()` to limit the data you get from your models](defer.md)
+- [Using `django-admin-env-notice` to add an envioronment notice to the frontend](add_env_banner_to_frontend.md)
 - [Using `django-countries`](django_countries.md)
 - [Using inline formsets with `inlineformset_factory`](using_inline_formsets.md)
 - [Why won't my Django file URLs come back signed from S3?](aws_signed_urls.md)
