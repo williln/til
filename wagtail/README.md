@@ -1,6 +1,7 @@
 # wagtail
 
 - [Add Wagtail to an existing Django project](add_to_existing_project.md)
+- [Adding a Wagtail image programmatically](add_image_programmatically.md)
 - [Cheat Sheet for Wagtail StreamField](cheat_sheet_wagtail_streamfield.md)
 - [Cheat Sheet: Wagtail Page Model Fields](cheat_sheet_wagtail_page_model_fields.md)
 - [Choosing Between Wagtail Page Models and Django Models](choosing_wagtail_page_models_vs_django_models.md)
