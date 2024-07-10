@@ -69,6 +69,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Using `defer()` to limit the data you get from your models](https://github.com/williln/til/blob/main/django/defer.md) - 2022-10-19
 * [Using `django-admin-env-notice` to add an envioronment notice to the frontend](https://github.com/williln/til/blob/main/django/add_env_banner_to_frontend.md) - 2024-06-20
 * [Using `django-countries`](https://github.com/williln/til/blob/main/django/django_countries.md) - 2024-04-02
+* [Using `iterator()` to loop through large querysets efficiently](https://github.com/williln/til/blob/main/django/iterator.md) - 2024-07-10
 * [Using Django Aggregation](https://github.com/williln/til/blob/main/django/aggregation.md) - 2021-01-22
 * [Using Enums in a Django Model ChoiceField (Django 2.2)](https://github.com/williln/til/blob/main/django/enums_as_choices.md) - 2020-05-26
 * [Using inline formsets with `inlineformset_factory`](https://github.com/williln/til/blob/main/django/using_inline_formsets.md) - 2024-06-03
