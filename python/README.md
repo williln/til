@@ -6,3 +6,4 @@
 - [Generating a clickable table-of-contents for each directory in my TILs](generate_toc_for_subdirectory.md)
 - [How to sort a Python dictionary by key or value](sort_dictionary.md)
 - [How to sort a Python dictionary by multiple values](sort_dict_multiple_keys.md)
+- [Using `Decimal.quantize`](decimal_quantize.md)

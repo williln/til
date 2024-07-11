@@ -22,5 +22,6 @@
 - [Using `defer()` to limit the data you get from your models](defer.md)
 - [Using `django-admin-env-notice` to add an envioronment notice to the frontend](add_env_banner_to_frontend.md)
 - [Using `django-countries`](django_countries.md)
+- [Using `iterator()` to loop through large querysets efficiently](iterator.md)
 - [Using inline formsets with `inlineformset_factory`](using_inline_formsets.md)
 - [Why won't my Django file URLs come back signed from S3?](aws_signed_urls.md)
