@@ -32,6 +32,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [python](#python)
 * [r](#r)
 * [slack](#slack)
+* [sphinx](#sphinx)
 * [stripe](#stripe)
 * [terraform](#terraform)
 * [wagtail](#wagtail)
@@ -186,6 +187,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### slack
 
 * [Keep Slack from kicking you out of huddles when your machine locks](https://github.com/williln/til/blob/main/slack/computer_locking_kicks_out_of_huddles.md) - 2024-05-22
+
+### sphinx
+
+* [Running Sphinx docs locally](https://github.com/williln/til/blob/main/sphinx/running_locally.md) - 2024-07-15
 
 ### stripe
 
