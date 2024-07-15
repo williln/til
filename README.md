@@ -33,6 +33,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [r](#r)
 * [slack](#slack)
 * [stripe](#stripe)
+* [terraform](#terraform)
 * [wagtail](#wagtail)
 <!-- toc ends -->
 
@@ -192,6 +193,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Generating a `PaymentIntent` and saving it to a Django model](https://github.com/williln/til/blob/main/stripe/payment_intents.md) - 2024-06-06
 * [Setting up a webhook in local development (Django project)](https://github.com/williln/til/blob/main/stripe/webhook_local_dev.md) - 2024-07-11
 * [Using off-session payments and `setup_future_usage`](https://github.com/williln/til/blob/main/stripe/off_session_payments.md) - 2024-06-06
+
+### terraform
+
+* [About Terraform and .tfvars files](https://github.com/williln/til/blob/main/terraform/tfvars-files.md) - 2024-07-15
 
 ### wagtail
 
