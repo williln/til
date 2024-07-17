@@ -178,6 +178,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [How to sort a Python dictionary by key or value](https://github.com/williln/til/blob/main/python/sort_dictionary.md) - 2021-02-02
 * [How to sort a Python dictionary by multiple values](https://github.com/williln/til/blob/main/python/sort_dict_multiple_keys.md) - 2021-02-02
 * [Using `Decimal.quantize`](https://github.com/williln/til/blob/main/python/decimal_quantize.md) - 2024-07-05
+* [Using `pip-tools` and `pip-compile` for Python dependency management](https://github.com/williln/til/blob/main/python/pip_tools.md) - 2024-07-17
 
 ### r
 
