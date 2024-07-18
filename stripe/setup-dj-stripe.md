@@ -25,7 +25,8 @@ DJSTRIPE_WEBHOOK_SECRET = "whsec_xxx"  # Get it from the section in the Stripe d
 DJSTRIPE_FOREIGN_KEY_TO_FIELD = "id"
 ```
 
-- Start my server. 
+- Start my server.
+- Run `../manage.py migrate` 
 - Go into the Django Admin and add my **test** Stripe private API key:
 
 <img width="642" alt="Screenshot 2024-07-18 at 10 13 21 AM" src="https://github.com/user-attachments/assets/b3490d47-4be8-4bc2-a329-db9ed8d4b87c">
