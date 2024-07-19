@@ -1,7 +1,6 @@
----
-tags: stripe, webhooks, django, dj-stripe
----
 # `dj-stripe` contains models for all the Stripe objects and can sync them for you
+
+tags: stripe, webhooks, django, dj-stripe
 
 - [dj-stripe](https://dj-stripe.dev/2.8/)
 - [Installation](https://dj-stripe.dev/2.8/installation/)
