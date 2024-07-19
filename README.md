@@ -198,6 +198,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [`dj-stripe` contains models for all the Stripe objects and can sync them for you](https://github.com/williln/til/blob/main/stripe/setup-dj-stripe.md) - 2024-07-18
 * [Creating a PaymentIntent, but not capturing it, and allowing more to be charged later](https://github.com/williln/til/blob/main/stripe/uncaptured_payment_intents_and_overcapture.md) - 2024-06-10
 * [Generating a `PaymentIntent` and saving it to a Django model](https://github.com/williln/til/blob/main/stripe/payment_intents.md) - 2024-06-06
+* [Receiving Stripe webhooks via `dj-stripe` in local dev](https://github.com/williln/til/blob/main/stripe/using_dj_stripe_webhooks_locally.md) - 2024-07-19
 * [Setting up a webhook in local development (Django project)](https://github.com/williln/til/blob/main/stripe/webhook_local_dev.md) - 2024-07-11
 * [Using off-session payments and `setup_future_usage`](https://github.com/williln/til/blob/main/stripe/off_session_payments.md) - 2024-06-06
 
