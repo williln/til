@@ -27,6 +27,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [microsoft-dynamics](#microsoft-dynamics)
 * [misc](#misc)
 * [mkdocs](#mkdocs)
+* [postgres](#postgres)
 * [pre-commit](#pre-commit)
 * [pytest](#pytest)
 * [python](#python)
@@ -161,6 +162,10 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 ### mkdocs
 
 * [Including your project's README on your MkDocs index page](https://github.com/williln/til/blob/main/mkdocs/include_readme_in_index.md) - 2024-07-08
+
+### postgres
+
+* [Collecting statistics about your database with `ANALYZE`](https://github.com/williln/til/blob/main/postgres/analyze.md) - 2024-07-23
 
 ### pre-commit
 
