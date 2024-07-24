@@ -107,6 +107,7 @@ My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/si
 * [Making one job in a workflow depend on another job](https://github.com/williln/til/blob/main/github/gh-actions-set-job-dependency.md) - 2022-11-04
 * [Parsing JSON output from a GitHub Issue template in a GitHub Action](https://github.com/williln/til/blob/main/github/gh-actions-parse-json.md) - 2022-11-04
 * [Running an action conditionally](https://github.com/williln/til/blob/main/github/gh-action-run-job-conditionally.md) - 2022-11-04
+* [Running your tests with `pytest` in your PR via a GitHub Action](https://github.com/williln/til/blob/main/github/gh-action-test-ci.md) - 2024-07-24
 * [Setting output for a step in a job, so a different job can use it](https://github.com/williln/til/blob/main/github/gh-action-set-output.md) - 2022-11-04
 * [Temporarily disabling a GitHub action without touching the workflow file](https://github.com/williln/til/blob/main/github/gh_actions_temporary_disable.md) - 2022-11-07
 
