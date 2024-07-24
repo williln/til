@@ -7,5 +7,6 @@
 - [Making one job in a workflow depend on another job](gh-actions-set-job-dependency.md)
 - [Parsing JSON output from a GitHub Issue template in a GitHub Action](gh-actions-parse-json.md)
 - [Running an action conditionally](gh-action-run-job-conditionally.md)
+- [Running your tests with `pytest` in your PR via a GitHub Action](gh-action-test-ci.md)
 - [Setting output for a step in a job, so a different job can use it](gh-action-set-output.md)
 - [Temporarily disabling a GitHub action without touching the workflow file](gh_actions_temporary_disable.md)
