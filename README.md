@@ -2,6 +2,27 @@
 
 My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til). 
 
+**Now**: July 2024: At some point this month, I set a goal to write a TIL every work day. I haven't stuck to that, but I am averaging several per week, and I'm pleased with the cadence. But even trying to post every day, I am still not capturing everything I've learned. 
+
+## My TIL Philosophy 
+
+Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to set expectations. 
+
+- I write TILs quickly, usually in under 10 minutes.
+- Usually, there isn't any editing other than light proofreading.
+- I really enjoy it! Highly recommend a public TIL repo as a personal practice.
+- Sometimes I share them on Mastodon, but not always.
+
+## Benefits of my TIL repo 
+
+- It's good, low-stakes writing practice. 
+- It helps remind me that beginnerhood is perpetual. 
+- I have a few of my own TILs that I consult really regularly. Nothing beats copying and pasting your own stuff forever. 
+- Sometimes, the TILs get picked up by [Django News](https://django-news.com/issues/243?#start), and that's neat! 
+- Other people are aware of what I am working on, and then ask for help related to those things. Feels great to help people.
+- It provides a neat fossil record of the kinds of things I've worked on over the course of my career.
+- I have a repo full of markdown that's easy to clone and run parsing experiments on. 
+
 ---
 
 ## Topics
