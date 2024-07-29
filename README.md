@@ -117,6 +117,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 
 ### git
 
+* [`git reset`, with `soft`: Undo your last commit but keep your changes](https://github.com/williln/til/blob/main/git/undo_commit_but_preserve_changes.md) - 2024-07-29
 * [Moving from an old repo to a new repo in another organization](https://github.com/williln/til/blob/main/git/moving_to_a_new_repo.md) - 2024-05-13
 
 ### github
