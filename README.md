@@ -159,6 +159,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 
 * [Accessing a Kubernetes cluster for the first time](https://github.com/williln/til/blob/main/kubernetes/accessing_cluster.md) - 2024-05-14
 * [Setting up Kubernetes access on MacOS with a config file](https://github.com/williln/til/blob/main/kubernetes/setting_up_new_access_mac.md) - 2024-05-14
+* [Viewing logs for your pod](https://github.com/williln/til/blob/main/kubernetes/viewing_logs.md) - 2024-07-30
 
 ### mac
 
