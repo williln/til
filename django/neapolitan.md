@@ -1,6 +1,6 @@
 # Neapolitan: Everything I've Learned 
 
-(Okay, maybe not everything, but I am going to collect the practical things I have learned about [Neapolitan](https://github.com/carltongibson/neapolitan) in this document. Huge thanks to Carlton Gibson for the library, and Jeff Triplett for teaching me everything I know about it. Literally.) 
+(Okay, maybe not everything, but I am going to collect the practical things I have learned about [Neapolitan](https://github.com/carltongibson/neapolitan) in this document. Huge thanks to Carlton Gibson for the library, and [Jeff Triplett](https://webology.dev/) for teaching me everything I know about it. Literally.) 
 
 ---
 
