@@ -88,6 +88,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [How to confirm that login is required in your Django view](https://github.com/williln/til/blob/main/django/how_to_test_view_auth.md) - 2023-02-22
 * [How to log in a test user in a `pytest` unit test](https://github.com/williln/til/blob/main/django/test_protected_page.md) - 2023-02-22
 * [How to test a file upload with `pytest` and `SimpleUploadedFile`](https://github.com/williln/til/blob/main/django/testing_file_upload_pytest.md) - 2023-02-22
+* [Neapolitan: Everything I've Learned](https://github.com/williln/til/blob/main/django/neapolitan.md) - 2024-08-01
 * [Run SQL statements as part of your migrations with `migrations.RunSQL`](https://github.com/williln/til/blob/main/django/run_sql.md) - 2024-07-23
 * [Testing Django signals, and disabling signals in tests (Django 2.2)](https://github.com/williln/til/blob/main/django/testing_django_signals.md) - 2020-07-27
 * [Using `Coalesce` to provide a default value for `aggregate` queries](https://github.com/williln/til/blob/main/django/aggregation_coalesce.md) - 2021-02-18
