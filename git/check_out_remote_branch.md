@@ -6,8 +6,12 @@ A colleague has opened a PR. I want to check out their branch on my own machine 
 
 ## Instructions 
 
+**Assumptions**: You have the repo checked out and set up locally on your machine. You work on it regularly. 
+
 - Get the branch name that you want
 - Back in your terminal, run `git fetch` to load all the remote branch
 - Then run `git checkout <branch-name>`
+
+You are now in a new branch on your local machine that is a copy of the branch at the remote. 
 
 Another "thing I have known for a while but sometimes forget." 
