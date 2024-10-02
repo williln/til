@@ -48,6 +48,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [microsoft-dynamics](#microsoft-dynamics)
 * [misc](#misc)
 * [mkdocs](#mkdocs)
+* [plata](#plata)
 * [postgres](#postgres)
 * [pre-commit](#pre-commit)
 * [pytest](#pytest)
@@ -188,6 +189,10 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 ### mkdocs
 
 * [Including your project's README on your MkDocs index page](https://github.com/williln/til/blob/main/mkdocs/include_readme_in_index.md) - 2024-07-08
+
+### plata
+
+* [[`plata`](https://github.com/matthiask/plata/) order processors](https://github.com/williln/til/blob/main/plata/processors.md) - 2024-10-01
 
 ### postgres
 
