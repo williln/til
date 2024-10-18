@@ -122,6 +122,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [`git reset`, with `soft`: Undo your last commit but keep your changes](https://github.com/williln/til/blob/main/git/undo_commit_but_preserve_changes.md) - 2024-07-29
 * [Checking out someone else's branch](https://github.com/williln/til/blob/main/git/check_out_remote_branch.md) - 2024-08-23
 * [Moving from an old repo to a new repo in another organization](https://github.com/williln/til/blob/main/git/moving_to_a_new_repo.md) - 2024-05-13
+* [Naming a `git stash` and re-applying it later](https://github.com/williln/til/blob/main/git/name_a_stash_and_apply_it.md) - 2024-10-17
 
 ### github
 
