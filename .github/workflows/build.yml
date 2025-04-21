@@ -18,7 +18,7 @@ jobs:
         with:
           python-version: 3.8
       - name: Configure pip caching
-        uses: actions/cache@v1
+        uses: actions/cache@v4
         with:
           path: ~/.cache/pip
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
@@ -34,7 +34,7 @@ jobs:
         run: |-
           python update_readme.py --rewrite
           cat README.md
-      - name: Update subdir README's 
+      - name: Update subdir README's
         run: |-
           python3 scripts/build_subdir_toc.py aws
           python3 scripts/build_subdir_toc.py celery
