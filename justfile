@@ -33,5 +33,6 @@ build-internal-readmes:
     python3 scripts/build_subdir_toc.py slack
     python3 scripts/build_subdir_toc.py sphinx
     python3 scripts/build_subdir_toc.py stripe
+    python3 scripts/build_subdir_toc.py squarespace
     python3 scripts/build_subdir_toc.py terraform
     python3 scripts/build_subdir_toc.py wagtail
