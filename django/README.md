@@ -15,6 +15,7 @@
 - [How to confirm that login is required in your Django view](how_to_test_view_auth.md)
 - [How to log in a test user in a `pytest` unit test](test_protected_page.md)
 - [How to test a file upload with `pytest` and `SimpleUploadedFile`](testing_file_upload_pytest.md)
+- [Neapolitan: Everything I've Learned](neapolitan.md)
 - [Run SQL statements as part of your migrations with `migrations.RunSQL`](run_sql.md)
 - [Testing Django signals, and disabling signals in tests (Django 2.2)](testing_django_signals.md)
 - [Using Django Aggregation](aggregation.md)

@@ -8,3 +8,4 @@
 - [How to sort a Python dictionary by multiple values](sort_dict_multiple_keys.md)
 - [Using `Decimal.quantize`](decimal_quantize.md)
 - [Using `pip-tools` and `pip-compile` for Python dependency management](pip_tools.md)
+- [`typing.final`](typing-final.md)
