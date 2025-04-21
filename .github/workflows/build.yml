@@ -46,6 +46,7 @@ jobs:
           python3 scripts/build_subdir_toc.py github
           python3 scripts/build_subdir_toc.py google
           python3 scripts/build_subdir_toc.py home-office
+          python3 scripts/build_subdir_toc.py html
           python3 scripts/build_subdir_toc.py htmx
           python3 scripts/build_subdir_toc.py javascript
           python3 scripts/build_subdir_toc.py kubernetes
@@ -54,15 +55,23 @@ jobs:
           python3 scripts/build_subdir_toc.py meilisearch
           python3 scripts/build_subdir_toc.py microsoft-dynamics
           python3 scripts/build_subdir_toc.py misc
+          python3 scripts/build_subdir_toc.py mkdocs
+          python3 scripts/build_subdir_toc.py plata
+          python3 scripts/build_subdir_toc.py postgres
+          python3 scripts/build_subdir_toc.py pre-commit
           python3 scripts/build_subdir_toc.py pytest
           python3 scripts/build_subdir_toc.py python
           python3 scripts/build_subdir_toc.py r
+          python3 scripts/build_subdir_toc.py seo
           python3 scripts/build_subdir_toc.py slack
+          python3 scripts/build_subdir_toc.py sphinx
+          python3 scripts/build_subdir_toc.py stripe
+          python3 scripts/build_subdir_toc.py terraform
           python3 scripts/build_subdir_toc.py wagtail
       - name: Commit and push if anything changed
         run: |-
           git diff
           git config --global user.email "readme-bot@example.com"
           git config --global user.name "README-bot"
-          git diff --quiet || (git add README.md && git commit -m "Updated READMEs")
+          git diff --quiet || (git add README.md */README.md && git commit -m "Updated READMEs")
           git push
