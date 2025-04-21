@@ -58,6 +58,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [seo](#seo)
 * [slack](#slack)
 * [sphinx](#sphinx)
+* [squarespace](#squarespace)
 * [stripe](#stripe)
 * [terraform](#terraform)
 * [wagtail](#wagtail)
@@ -237,6 +238,10 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 ### sphinx
 
 * [Running Sphinx docs locally](https://github.com/williln/til/blob/main/sphinx/running_locally.md) - 2024-07-15
+
+### squarespace
+
+* [Export Your Squarespace Site to XML](https://github.com/williln/til/blob/main/squarespace/export-to-xml.md) - 2025-04-21
 
 ### stripe
 
