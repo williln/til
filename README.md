@@ -54,6 +54,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [pytest](#pytest)
 * [python](#python)
 * [r](#r)
+* [seo](#seo)
 * [slack](#slack)
 * [sphinx](#sphinx)
 * [stripe](#stripe)
@@ -223,6 +224,10 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 
 * [`taylor`: The Taylor Swift / R Project](https://github.com/williln/til/blob/main/r/taylor_swift.md) - 2023-04-21
 * [How to convert an `.rda` file to JSON](https://github.com/williln/til/blob/main/r/convert_rda_to_json.md) - 2023-04-21
+
+### seo
+
+* [Google SEO Notes for eCommerce](https://github.com/williln/til/blob/main/seo/seo-ecommerce.md) - 2025-04-21
 
 ### slack
 
