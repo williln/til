@@ -75,3 +75,11 @@ Note:
     </channell>
 </rss>
 ```
+
+This is a heavily redacted and thinned version of what exported for me, and I don't have that many blog posts for how old my blog is --  I'm a very inconsistent blogger.
+
+## Goals
+
+I think I finally want to move my blog off Squarespace and into mkdocs or Wagtail or something else. Not sure. At the very least, I want to convert what is there to a more useful format and have it stored somewhere I can attach version control to it.
+
+Now I have this XML copy of my site and we're going to figure out what to do next with it.
