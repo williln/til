@@ -1,27 +1,28 @@
 # til
 
-My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til). 
+My repo of Today I Learned posts. Inspired by [simonw/til](https://github.com/simonw/til).
 
-**Now**: July 2024: At some point this month, I set a goal to write a TIL every work day. I haven't stuck to that, but I am averaging several per week, and I'm pleased with the cadence. But even trying to post every day, I am still not capturing everything I've learned. 
+**Now**: April 2025: I have really fallen out of the habit of writing these TILs. But I am still learning so much, so I'm going to start trying to get back into the practice. I still believe in the power of the TIL!
 
-## My TIL Philosophy 
+## My TIL Philosophy
 
-Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to set expectations. 
+Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to set expectations.
 
 - I write TILs quickly, usually in under 10 minutes.
 - Usually, there isn't any editing other than light proofreading.
 - I really enjoy it! Highly recommend a public TIL repo as a personal practice.
 - Sometimes I share them on Mastodon, but not always.
 
-## Benefits of my TIL repo 
+## Benefits of my TIL repo for myself
 
-- It's good, low-stakes writing practice. 
-- It helps remind me that beginnerhood is perpetual. 
-- I have a few of my own TILs that I consult really regularly. Nothing beats copying and pasting your own stuff forever. 
-- Sometimes, the TILs get picked up by [Django News](https://django-news.com/issues/243?#start), and that's neat! 
+- It's good, low-stakes writing practice.
+- It helps remind me that beginnerhood is perpetual.
+- I have a few of my own TILs that I consult really regularly. Nothing beats copying and pasting your own stuff forever.
+- Sometimes, the TILs get picked up by [Django News](https://django-news.com/issues/243?#start), and that's neat!
 - Other people are aware of what I am working on, and then ask for help related to those things. Feels great to help people.
 - It provides a neat fossil record of the kinds of things I've worked on over the course of my career.
-- I have a repo full of markdown that's easy to clone and run parsing experiments on. 
+- I have a repo full of markdown that's easy to clone and run parsing experiments on, which has come in handy a few times for client work.
+- I break down a lot of concepts into small pieces for myself, which makes writing longer-form pieces easier.
 
 ---
 
@@ -264,3 +265,19 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [Seeding my Wagtail site](https://github.com/williln/til/blob/main/wagtail/seeding_wagtail_site.md) - 2024-03-27
 * [What to do if you delete the default Wagtail homepage](https://github.com/williln/til/blob/main/wagtail/fix_deleted_root_page.md) - 2024-03-25
 <!-- index ends -->
+
+<!-- docs-section starts -->
+
+## Automatic README Generation
+
+This repository uses GitHub Actions to automatically generate and update README files:
+
+1. The main README.md (this file) is updated with:
+   - A table of contents listing all topics
+   - An index of all TIL posts organized by topic
+
+2. Each subdirectory also gets its own README.md with links to all files in that directory.
+
+These updates happen automatically whenever changes are pushed to the main branch.
+
+<!-- docs-section ends -->
