@@ -11,3 +11,4 @@
 - [Example of linking Django models to Wagtail Page models](example_integrating_wagtail_page_models_into_django_models.md)
 - [Seeding my Wagtail site](seeding_wagtail_site.md)
 - [What to do if you delete the default Wagtail homepage](fix_deleted_root_page.md)
+- [wagtail-jetstream](wagtail-jetstream.md)

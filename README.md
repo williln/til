@@ -269,6 +269,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [Creating Wagtail pages with Streamfield content programmatically](https://github.com/williln/til/blob/main/wagtail/creating_streamfield_content_programmatically.md) - 2024-05-15
 * [Example of linking Django models to Wagtail Page models](https://github.com/williln/til/blob/main/wagtail/example_integrating_wagtail_page_models_into_django_models.md) - 2024-02-26
 * [Seeding my Wagtail site](https://github.com/williln/til/blob/main/wagtail/seeding_wagtail_site.md) - 2024-03-27
+* [wagtail-jetstream](https://github.com/williln/til/blob/main/wagtail/wagtail-jetstream.md) - 2025-04-25
 * [What to do if you delete the default Wagtail homepage](https://github.com/williln/til/blob/main/wagtail/fix_deleted_root_page.md) - 2024-03-25
 <!-- index ends -->
 
