@@ -95,6 +95,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 * [Neapolitan: Everything I've Learned](https://github.com/williln/til/blob/main/django/neapolitan.md) - 2024-08-01
 * [Run SQL statements as part of your migrations with `migrations.RunSQL`](https://github.com/williln/til/blob/main/django/run_sql.md) - 2024-07-23
 * [Testing Django signals, and disabling signals in tests (Django 2.2)](https://github.com/williln/til/blob/main/django/testing_django_signals.md) - 2020-07-27
+* [Themes for the Django Admin](https://github.com/williln/til/blob/main/django/admin_themes.md) - 2025-04-25
 * [Using `Coalesce` to provide a default value for `aggregate` queries](https://github.com/williln/til/blob/main/django/aggregation_coalesce.md) - 2021-02-18
 * [Using `defer()` to limit the data you get from your models](https://github.com/williln/til/blob/main/django/defer.md) - 2022-10-19
 * [Using `django-admin-env-notice` to add an envioronment notice to the frontend](https://github.com/williln/til/blob/main/django/add_env_banner_to_frontend.md) - 2024-06-20

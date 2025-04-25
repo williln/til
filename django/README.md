@@ -18,6 +18,7 @@
 - [Neapolitan: Everything I've Learned](neapolitan.md)
 - [Run SQL statements as part of your migrations with `migrations.RunSQL`](run_sql.md)
 - [Testing Django signals, and disabling signals in tests (Django 2.2)](testing_django_signals.md)
+- [Themes for the Django Admin](admin_themes.md)
 - [Using Django Aggregation](aggregation.md)
 - [Using Enums in a Django Model ChoiceField (Django 2.2)](enums_as_choices.md)
 - [Using `Coalesce` to provide a default value for `aggregate` queries](aggregation_coalesce.md)
