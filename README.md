@@ -31,6 +31,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 <!-- toc starts -->
 * [aws](#aws)
 * [celery](#celery)
+* [cloudflare](#cloudflare)
 * [django](#django)
 * [django-rest-framework](#django-rest-framework)
 * [drf-yasg](#drf-yasg)
@@ -74,6 +75,10 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 ### celery
 
 * [Scheduling a nightly Celery task with Celery Beat](https://github.com/williln/til/blob/main/celery/schedule_nightly_task.md) - 2024-05-08
+
+### cloudflare
+
+* [Bot Fight Mode](https://github.com/williln/til/blob/main/cloudflare/bot-fight-mode.md) - 2025-04-29
 
 ### django
 
