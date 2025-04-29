@@ -21,5 +21,6 @@ repos:
     hooks:
       - id: markdownlint
         files: \.md$
+        args: ["--config", ".markdownlint.yaml"]
 
 default_stages: [commit]
