@@ -19,7 +19,7 @@ My workflow is usually this:
 2. `pip install files-to-prompt`
 3. Add an XML `<background>` tag with notes on the project, whatever background I want the AI to focus on, whatever expertise I want to reflect
 4. Add an XML `<instructions>` tag with very specific instructions on what I want to accomplish (Something like "Use a custom template for this view `MyView`" or "Write a test that the `MyView` endpoint returns a 200")
-5. Run `files-to-prompt -e py --cxml path/to/file1.py path/to/file2.py` and capture the output
+5. Run `files-to-prompt --cxml path/to/file1.py path/to/file2.py` and capture the output
 6. Copy the output and paste it at the bottom of the `prompt.md`
 7. Upload the `prompt.md` to [Claude Desktop](https://claude.ai/download), or pass it to whatever CLI tool (like [aider](https://aider.chat)) I am using to interact with Claude.
 8. My prompt is usually something like "Read `prompt.md` and follow the instructions."
@@ -46,6 +46,7 @@ Some options to consider:
 
 - `--ignore <pattern>`: Specify a pattern to ignore. This could be useful in getting whole apps but excluding everything in `migrations/`.
 - `--ignore-ditignore`: Ignore the `gitignore`, and include all files.
+- `-e/--extension <extension>`: Only retrieve files with a certain extension. 
 - `-c/--cxml`: Output in Claude XML
 - `-m/--markdown`: Output as Markdown
 - `-o/--output <file>`: Output to a file
