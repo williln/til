@@ -18,14 +18,14 @@ My workflow is usually this:
 1. Set up a `prompt.md` in my repo.
 2. `pip install files-to-prompt`
 3. Add an XML `<background>` tag with notes on the project, whatever background I want the AI to focus on, whatever expertise I want to reflect
-4. Add an XML `<instructions>` tag with very specific instructions on what I want to accomplish (Something like "Use a custom template for this view `MyView`" or "Write a test that the `MyView` endpoint returns a 200`)
-5. Run `files-to-prompt -e py --cxml path/to/file1.py path/to/file2.py`
+4. Add an XML `<instructions>` tag with very specific instructions on what I want to accomplish (Something like "Use a custom template for this view `MyView`" or "Write a test that the `MyView` endpoint returns a 200")
+5. Run `files-to-prompt -e py --cxml path/to/file1.py path/to/file2.py` and capture the output
 6. Copy the output and paste it at the bottom of the `prompt.md`
 7. Upload the `prompt.md` to [Claude Desktop](https://claude.ai/download), or pass it to whatever CLI tool (like [aider](https://aider.chat)) I am using to interact with Claude.
 8. My prompt is usually something like "Read `prompt.md` and follow the instructions."
 
 ```md
-_prompt.md_
+# prompt.md
 <background>
 - You are a [whatever background I specify]
 </background>
