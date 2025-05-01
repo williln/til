@@ -5,6 +5,7 @@ default:
 build-internal-readmes:
     python3 scripts/build_subdir_toc.py aws
     python3 scripts/build_subdir_toc.py celery
+    python3 scripts/build_subdir_toc.py claude
     python3 scripts/build_subdir_toc.py cloudflare
     python3 scripts/build_subdir_toc.py django
     python3 scripts/build_subdir_toc.py django-rest-framework
