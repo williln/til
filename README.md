@@ -31,6 +31,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 <!-- toc starts -->
 * [aws](#aws)
 * [celery](#celery)
+* [claude](#claude)
 * [cloudflare](#cloudflare)
 * [django](#django)
 * [django-rest-framework](#django-rest-framework)
@@ -75,6 +76,10 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 ### celery
 
 * [Scheduling a nightly Celery task with Celery Beat](https://github.com/williln/til/blob/main/celery/schedule_nightly_task.md) - 2024-05-08
+
+### claude
+
+* [Using `files-to-prompt` to generate an XML file for your Claude context](https://github.com/williln/til/blob/main/claude/files-to-prompt.md) - 2025-05-01
 
 ### cloudflare
 
