@@ -225,7 +225,7 @@ Since this repo has a few stars ⭐ (hi everyone), I want to take a moment to se
 
 * [`typing.final`](https://github.com/williln/til/blob/main/python/typing-final.md) - 2025-03-04
 * [ChatGPT-4 distills the Python `mailbox` docs for me.](https://github.com/williln/til/blob/main/python/mailbox.md) - 2023-04-24
-* [Create a new Python virtual environment](https://github.com/williln/til/blob/main/python/new-virtualenv.md) - 2022-10-14
+* [Create a new Python virtual environment/ pyenv cheat sheet](https://github.com/williln/til/blob/main/python/new-virtualenv.md) - 2022-10-14
 * [Generate a markdown file with a table of contents in Python](https://github.com/williln/til/blob/main/python/generate-toc.md) - 2022-10-28
 * [Generating a clickable table-of-contents for each directory in my TILs](https://github.com/williln/til/blob/main/python/generate_toc_for_subdirectory.md) - 2024-06-03
 * [How to sort a Python dictionary by key or value](https://github.com/williln/til/blob/main/python/sort_dictionary.md) - 2021-02-02
