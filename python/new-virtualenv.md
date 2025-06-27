@@ -1,4 +1,4 @@
-# Create a new Python virtual environment 
+# Create a new Python virtual environment/ pyenv cheat sheet
 
 With: 
 
@@ -12,7 +12,6 @@ Run `pyenv which python` to get the current version of Python, and by extension,
 
     $ pyenv which python 
     /Users/lacey/.pyenv/versions/3.7.6/bin/python
-
   
 Move on with your life! 
 
@@ -24,3 +23,17 @@ Move on with your life!
     
     # Deactivate the vent
     pyenv deactivate 
+
+If you're not sure which Python versions you have available to you, run 
+
+    $ pyenv versions
+
+And you will see a list of Python versions you have installed. 
+
+If you want to see which Python versions you can install, run 
+
+    $ pyenv install -l 
+
+To install a version, run: 
+
+    $ pyenv install {version} 
