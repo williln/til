@@ -69,6 +69,7 @@ A few things this practice has taught me:
 ### claude
 
 * [Using `files-to-prompt` to generate an XML file for your Claude context](https://github.com/williln/til/blob/main/claude/files-to-prompt.md) - 2025-05-01
+* [Using Claude Rules (`.claude/rules/`)](https://github.com/williln/til/blob/main/claude/using-claude-rules.md) - 2026-03-10
 
 ### cloudflare
 
