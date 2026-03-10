@@ -6,7 +6,7 @@
 
 ## Intro
 
-Claude rules let you organize persistent instructions into focused, topic-specific files rather than cramming everything into one `CLAUDE.md`. They live in `.claude/rules/` and can be optionally scoped to specific file paths so they only load into context when relevant.
+Claude rules are a feature of [Claude Code](https://code.claude.com/) that let you organize persistent instructions into focused, topic-specific files rather than cramming everything into one `CLAUDE.md`. They live in `.claude/rules/` and can be optionally scoped to specific file paths so they only load into context when relevant.
 
 ## How they work
 
